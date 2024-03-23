@@ -39,8 +39,8 @@ const Home = () => {
         <p>
           I'm a Mathematics and Computer Science student at Amherst College passionate about the intersection
           between software development and quantitative research. I am also interested in sports analytics 
-          (particularly baseball, football and soccer) and classical music. A fun fact about me is that I played the trombone,
-          competitively in high school, and placed third at the 2022 Concours International Music Competition
+          (particularly baseball, football and soccer) and classical music. A fun fact about me is that I as a trombone player, I 
+          placed third at the 2022 Concours International Music Competition
           and was a finalist at the 2023 Southeast Trombone Symposium Competition. I still play for fun.
           I am constantly seeking opportunities to apply myself to new challenges. 
           Let's connect and explore opportunities to collaborate and create solutions together.
