@@ -41,7 +41,7 @@ const Home = () => {
           between software development and quantitative research. I am also interested in sports analytics 
           (particularly baseball, football and soccer) and classical music. A fun fact about me is that I as a trombone player, I 
           placed third at the 2022 Concours International Music Competition
-          and was a finalist at the 2023 Southeast Trombone Symposium Competition. I still play for fun.
+          and was a finalist at the 2023 Southeast Trombone Symposium Competition. 
           I am constantly seeking opportunities to apply myself to new challenges. 
           Let's connect and explore opportunities to collaborate and create solutions together.
         </p>
