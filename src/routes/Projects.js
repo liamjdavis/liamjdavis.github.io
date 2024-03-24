@@ -21,26 +21,26 @@ const Projects = () => {
   const projects = [
     {
       name: 'Stock Forecasters',
-      description: ['Built a LSTM network, GRU network and CNN to forecast stock prices in jupyter notebooks',
-                    'Visualized forecasts with Matplotlib and Seaborn',
-                    'Deployed interactive models on the web using Binder'],
+      description: ['- Built a LSTM network, GRU network and CNN to forecast stock prices in jupyter notebooks',
+                    '- Visualized forecasts with Matplotlib and Seaborn',
+                    '- Deployed interactive models on the web using Binder'],
       githubLink: 'https://github.com/liamjdavis/Stock-Forecasters'
     },
     {
       name: 'Credit Card Customer Segmentation',
-      description:['Segmented credit card customers to optimize market strategies',
-                    'Implemented K Means Clustering from scratch with Python',
-                    'Applied algorithm to dataset with 5 features',
-                    'Clustered customers into 3 groups, visualized clusters with seaborn'
+      description:['- Segmented credit card customers to optimize market strategies',
+                    '- Implemented K Means Clustering from scratch with Python',
+                    '- Applied algorithm to dataset with 5 features',
+                    '- Clustered customers into 3 groups, visualized clusters with seaborn'
         ],
       githubLink: 'https://github.com/liamjdavis/Credit-Card-Customer-Segmentation'
     },
     {
       name: 'Galaxy Simulator',
-      description: ['Built a Java-based galaxy simulator',
-                    'Implemented Barnes-Hut Algorithm for efficient performance',
-                    'Created user controls to spawn new stars and black holes, and time manipulation',
-                    'Capable of simulating galaxies with hundreds of thousands of stars with minimal lag',
+      description: ['- Built a Java-based galaxy simulator',
+                    '- Implemented Barnes-Hut Algorithm for efficient performance',
+                    '- Created user controls to spawn new stars and black holes, and time manipulation',
+                    '- Capable of simulating galaxies with hundreds of thousands of stars with minimal lag',
         ],
       githubLink: 'https://github.com/liamjdavis/112-Final-Project'
     }
