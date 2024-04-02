@@ -6,6 +6,7 @@ import hp from '../assets/hp.png';
 import mammo_bsb from '../assets/amherst baseball.jpg';
 import frio from '../assets/Frio.jpg';
 import imc from '../assets/imc.jpg';
+import cubist from '../assets/cubist.png';
 
 const Home = () => {
   return (
@@ -87,6 +88,31 @@ const Home = () => {
 
           <div>
             <h1>Industry Training Programs</h1>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={cubist}
+                alt="imc"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div>
+              <h3>
+                Cubist Hackathon
+                <br />
+                <p>
+                  April 2024
+                </p>
+              </h3>
+            </div>
+
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
                 src={imc}
@@ -106,8 +132,6 @@ const Home = () => {
                 IMC Prosperity Trading Challenge
                 <br />
                 <p>
-                  <i>Competitor</i>
-                  <br />
                   April 2024
                 </p>
               </h3>
