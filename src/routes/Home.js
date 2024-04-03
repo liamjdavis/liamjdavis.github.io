@@ -163,48 +163,6 @@ const Home = () => {
               </h3>
             </div>
           </div>
-
-          <div>
-            <h1>Skills</h1>
-            <div>
-              <div style={{ marginBottom: 0 }}>
-                <h3>Programming Languages</h3>
-                <ul>
-                  <li>Python</li>
-                  <li>Java</li>
-                  <li>C/C++</li>
-                  <li>SQL (MySQL, SQLite)</li>
-                  <li>Javascript (Node, React)</li>
-                  <li>R</li>
-                </ul>
-                <br />
-              </div>
-
-              <div style={{ marginBottom: 0 }}>
-                <h3>Tools</h3>
-                <ul>
-                  <li>Scikit-learn</li>
-                  <li>Pandas + Numpy</li>
-                  <li>Pytorch</li>
-                  <li>Tensorflow + Keras</li>
-                  <li>Matplotlib + Seaborn</li>
-                </ul>
-                <br />
-              </div>
-
-              <div>
-                <h3>Technologies</h3>
-                <ul>
-                  <li>Git + Github</li>
-                  <li>Jupyter</li>
-                  <li>VSCode</li>
-                  <li>RStudio</li>
-                  <li>PyCharm + Intellij</li>
-                  <li>Latex</li>
-                </ul>
-              </div>
-            </div>
-          </div>
         </div>
 
         <div className="column right-column" style={{ flex: 1 }}>
@@ -278,6 +236,48 @@ const Home = () => {
                   Built data pipeline from financial statements to company database.
                 </p>
               </h3>
+            </div>
+          </div>
+
+          <div>
+            <h1>Skills</h1>
+            <div>
+              <div style={{ marginBottom: 0 }}>
+                <h3>Programming Languages</h3>
+                <ul>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>C/C++</li>
+                  <li>SQL (MySQL, SQLite)</li>
+                  <li>Javascript (Node, React)</li>
+                  <li>R</li>
+                </ul>
+                <br />
+              </div>
+
+              <div style={{ marginBottom: 0 }}>
+                <h3>Tools</h3>
+                <ul>
+                  <li>Scikit-learn</li>
+                  <li>Pandas + Numpy</li>
+                  <li>Pytorch</li>
+                  <li>Tensorflow + Keras</li>
+                  <li>Matplotlib + Seaborn</li>
+                </ul>
+                <br />
+              </div>
+
+              <div>
+                <h3>Technologies</h3>
+                <ul>
+                  <li>Git + Github</li>
+                  <li>Jupyter</li>
+                  <li>VSCode</li>
+                  <li>RStudio</li>
+                  <li>PyCharm + Intellij</li>
+                  <li>Latex</li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
