@@ -203,7 +203,7 @@ const Home = () => {
                 HP Tech Ventures
                 <br />
                 <p>
-                  <i>Incoming Business and VC Analytics Extern</i>
+                  <i>Business and VC Analytics Extern</i>
                   <br />
                   May 2024 - July 2024
                 </p>
