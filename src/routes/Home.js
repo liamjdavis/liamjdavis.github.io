@@ -7,6 +7,7 @@ import mammo_bsb from '../assets/amherst baseball.jpg';
 import frio from '../assets/Frio.jpg';
 import imc from '../assets/imc.jpg';
 import cubist from '../assets/cubist.png';
+import codepath from '../assets/code path.jpg';
 
 const Home = () => {
   return (
@@ -81,6 +82,31 @@ const Home = () => {
                   <i>Bachelors of Arts in Mathematics and Computer Science</i>
                   <br />
                   August 2023 - September 2027
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={codepath}
+                alt="codepath"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div>
+              <h3>
+                CodePath <br />
+                <p>
+                  <i>Certificate in Advanced Software Engineering</i>
+                  <br />
+                  June 2024 - September 2024
                 </p>
               </h3>
             </div>
