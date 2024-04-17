@@ -105,7 +105,7 @@ const Home = () => {
               <h3>
                 CodePath <br />
                 <p>
-                  <i>Certificate in Advanced Software Engineering</i>
+                  <i>Certificate in Software Engineering</i>
                   <br />
                   June 2024 - September 2024
                 </p>
