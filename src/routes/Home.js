@@ -8,6 +8,7 @@ import frio from '../assets/Frio.jpg';
 import imc from '../assets/imc.jpg';
 import cubist from '../assets/cubist.png';
 import codepath from '../assets/code path.jpg';
+import goldman from '../assets/goldman sachs.png';
 
 const Home = () => {
   return (
@@ -159,6 +160,29 @@ const Home = () => {
                 <br />
                 <p>
                   April 2024
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={goldman}
+                alt="goldman"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  objectFit: 'contain',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div>
+              <h3>
+                Goldman Sachs Virtual Insights Fellow
+                <br />
+                <p>
+                  April 2024 - June 2024
                 </p>
               </h3>
             </div>
