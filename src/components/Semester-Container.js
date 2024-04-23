@@ -6,7 +6,7 @@ const SemesterContainer = ({ title, courses }) => {
     <div className="container">
       <div className="row">
         <div align="center" className="col">
-          <h3>{title}</h3>
+          <h3 style={{marginBottom: '10px'}}>{title}</h3>
           <ul>
             {courses.map((course, index) => (
               <li key={index} style={{ fontSize: '15px', listStyleType: 'none' }}>
