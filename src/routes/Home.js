@@ -187,29 +187,6 @@ const Home = () => {
                 </p>
               </h3>
             </div>
-
-            <div style={{ display: 'flex', justifyContent: 'center' }}>
-              <img
-                src={point72}
-                alt="point72"
-                style={{
-                  width: '100px',
-                  height: '100px',
-                  objectFit: 'contain',
-                  marginBottom: '20px',
-                }}
-              />
-            </div>
-
-            <div>
-              <h3>
-                Point72 Academy Fellow
-                <br />
-                <p>
-                  May 2024
-                </p>
-              </h3>
-            </div>
           </div>
         </div>
 
