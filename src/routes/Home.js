@@ -6,7 +6,8 @@ import hp from '../assets/hp.png';
 import mammo_bsb from '../assets/amherst baseball.jpg';
 import frio from '../assets/Frio.jpg';
 import imc from '../assets/imc.jpg';
-import cubist from '../assets/cubist.png';
+import cubist from '../assets/cubist systematic.png';
+import point72 from '../assets/point72.png';
 import codepath from '../assets/code path.jpg';
 import goldman from '../assets/goldman sachs.png';
 
@@ -156,7 +157,7 @@ const Home = () => {
 
             <div>
               <h3>
-                IMC Prosperity Trading Challenge
+                IMC Prosperity 2 Trading Challenge
                 <br />
                 <p>
                   April 2024
@@ -182,7 +183,30 @@ const Home = () => {
                 Goldman Sachs Virtual Insights Fellow
                 <br />
                 <p>
-                  April 2024 - June 2024
+                  May 2024 - June 2024
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={point72}
+                alt="point72"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  objectFit: 'contain',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div>
+              <h3>
+                Point72 Academy Fellow
+                <br />
+                <p>
+                  May 2024
                 </p>
               </h3>
             </div>
