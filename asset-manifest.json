@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0a066f6e.css",
-    "main.js": "/static/js/main.2c75ed6f.js",
+    "main.js": "/static/js/main.13f908d9.js",
     "static/media/headshot.jpg": "/static/media/headshot.2a6a0eaaab601dbf4aa6.jpg",
     "static/media/hp.png": "/static/media/hp.5a6cb151c8bde031c942.png",
     "static/media/goldman sachs.png": "/static/media/goldman sachs.a76395bfa09a542d4635.png",
@@ -14,10 +14,10 @@
     "static/media/cubist systematic.png": "/static/media/cubist systematic.1d3d791c28b90e8595f9.png",
     "index.html": "/index.html",
     "main.0a066f6e.css.map": "/static/css/main.0a066f6e.css.map",
-    "main.2c75ed6f.js.map": "/static/js/main.2c75ed6f.js.map"
+    "main.13f908d9.js.map": "/static/js/main.13f908d9.js.map"
   },
   "entrypoints": [
     "static/css/main.0a066f6e.css",
-    "static/js/main.2c75ed6f.js"
+    "static/js/main.13f908d9.js"
   ]
 }
