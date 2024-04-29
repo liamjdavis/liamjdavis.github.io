@@ -21,10 +21,10 @@ const Projects = () => {
   const projects = [
     {
       name:'Vendor Map',
-      description: ['Won 2nd Prize at 2024 Cubist Hackathon organized by Cubist Systematic Strategies',
-      'Developed web app that optimized food vendor locations with streaming foot traffic data',
-      'Leveraged historical transit flows to predict population density',
-      'Applied game theory principles to encourage collaborative decision-making among vendors'],
+      description: ['- Won 2nd Prize at 2024 Cubist Hackathon organized by Cubist Systematic Strategies',
+      '- Developed web app that optimized food vendor locations with streaming foot traffic data',
+      '- Leveraged historical transit flows to predict population density',
+      '- Applied game theory principles to encourage collaborative decision-making among vendors'],
       githubLink: 'https://github.com/liamjdavis/P72-Hackathon'
     },
     {

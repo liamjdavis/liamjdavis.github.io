@@ -27,7 +27,7 @@ const Coursework = () => {
     'MATH-261 Differential Equations',
     'COSC-241 Artificial Intelligence',
     'COSC-175 Systems 1: Computer Organization and Design',
-    "LJST-235: Law's Nature"
+    "LJST-265: Law's Monstrosity"
   ]
 
   return (
