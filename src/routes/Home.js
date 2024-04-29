@@ -7,7 +7,6 @@ import mammo_bsb from '../assets/amherst baseball.jpg';
 import frio from '../assets/Frio.jpg';
 import imc from '../assets/imc.jpg';
 import cubist from '../assets/cubist systematic.png';
-import point72 from '../assets/point72.png';
 import codepath from '../assets/code path.jpg';
 import goldman from '../assets/goldman sachs.png';
 
@@ -136,7 +135,10 @@ const Home = () => {
                 Cubist Hackathon
                 <br />
                 <p>
-                  April 2024
+                  <i>April 2024</i>
+                  <br /> 
+                  <br />
+                  Won 2nd Place Prize
                 </p>
               </h3>
             </div>
@@ -215,6 +217,10 @@ const Home = () => {
                   <i>Business and VC Analytics Extern</i>
                   <br />
                   May 2024 - July 2024
+                  <br />
+                  <br />
+                  Calculating and analyzing data on promising startups to
+                  further investment due diligence.
                 </p>
               </h3>
             </div>
