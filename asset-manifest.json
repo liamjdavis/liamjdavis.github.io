@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a066f6e.css",
-    "main.js": "/static/js/main.13f908d9.js",
-    "static/media/headshot.jpg": "/static/media/headshot.2a6a0eaaab601dbf4aa6.jpg",
-    "static/media/hp.png": "/static/media/hp.5a6cb151c8bde031c942.png",
-    "static/media/goldman sachs.png": "/static/media/goldman sachs.a76395bfa09a542d4635.png",
-    "static/media/amherst seal.png": "/static/media/amherst seal.053885502b3341538b18.png",
-    "static/media/point72.png": "/static/media/point72.d4e4fddf6e7d3ba0c9af.png",
-    "static/media/Frio.jpg": "/static/media/Frio.096407d58f7371095a3c.jpg",
-    "static/media/imc.jpg": "/static/media/imc.a42d3978a36320fe180a.jpg",
-    "static/media/amherst baseball.jpg": "/static/media/amherst baseball.b7ef23822cb5b74a3458.jpg",
-    "static/media/code path.jpg": "/static/media/code path.aaf20470d9e7b62de5e2.jpg",
-    "static/media/cubist systematic.png": "/static/media/cubist systematic.1d3d791c28b90e8595f9.png",
+    "main.css": "/static/css/main.f473d6c1.chunk.css",
+    "main.js": "/static/js/main.da6c2569.chunk.js",
+    "main.js.map": "/static/js/main.da6c2569.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.fb18542c.chunk.js": "/static/js/2.fb18542c.chunk.js",
+    "static/js/2.fb18542c.chunk.js.map": "/static/js/2.fb18542c.chunk.js.map",
     "index.html": "/index.html",
-    "main.0a066f6e.css.map": "/static/css/main.0a066f6e.css.map",
-    "main.13f908d9.js.map": "/static/js/main.13f908d9.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.0a066f6e.css",
-    "static/js/main.13f908d9.js"
-  ]
+    "precache-manifest.56fc8bcfddae68b9dbb73502a21a45bb.js": "/precache-manifest.56fc8bcfddae68b9dbb73502a21a45bb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f473d6c1.chunk.css.map": "/static/css/main.f473d6c1.chunk.css.map",
+    "static/media/Frio.jpg": "/static/media/Frio.e4e68843.jpg",
+    "static/media/amherst baseball.jpg": "/static/media/amherst baseball.ff01e967.jpg",
+    "static/media/amherst seal.png": "/static/media/amherst seal.7fe30c55.png",
+    "static/media/code path.jpg": "/static/media/code path.a22d57b5.jpg",
+    "static/media/cubist systematic.png": "/static/media/cubist systematic.ca92a539.png",
+    "static/media/goldman sachs.png": "/static/media/goldman sachs.c6c0147f.png",
+    "static/media/headshot.jpg": "/static/media/headshot.d7773dee.jpg",
+    "static/media/hp.png": "/static/media/hp.86e21cd1.png",
+    "static/media/imc.jpg": "/static/media/imc.392fe272.jpg"
+  }
 }
