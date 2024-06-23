@@ -9,6 +9,7 @@ import imc from '../assets/imc.jpg';
 import cubist from '../assets/cubist systematic.png';
 import codepath from '../assets/code path.jpg';
 import goldman from '../assets/goldman sachs.png';
+import i2i from '../assets/i2i.png'
 
 const Home = () => {
   return (
@@ -195,6 +196,33 @@ const Home = () => {
         <div className="column right-column" style={{ flex: 1 }}>
           <div>
             <h1>Work Experience</h1>
+            
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={i2i}
+                alt="i2i"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Ideas 2 Innovation
+                <br />
+                <p>
+                  <i>Founding Software Engineer</i>
+                  <br />
+                  June 2024 - Present 
+                </p>
+              </h3>
+            </div>
+
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
                 src={hp}
