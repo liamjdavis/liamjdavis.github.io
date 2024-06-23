@@ -301,21 +301,22 @@ const Home = () => {
           <div>
             <h1>Skills</h1>
             <div>
-              <div style={{ marginBottom: 0 }}>
-                <h3>Programming Languages</h3>
+              <div>
+                <h3 style={{ marginBottom: '0px' }}> Programming Languages</h3>
                 <ul>
                   <li>Python</li>
                   <li>Java</li>
                   <li>C/C++</li>
                   <li>SQL (MySQL, SQLite)</li>
                   <li>Javascript (Node, React)</li>
-                  <li>R</li>
+                  <li>React Native</li>
                 </ul>
-                <br />
               </div>
 
-              <div style={{ marginBottom: 0 }}>
-                <h3>Tools</h3>
+              <br></br>
+
+              <div>
+                <h3 style={{ marginBottom: '0px' }}>Tools</h3>
                 <ul>
                   <li>Scikit-learn</li>
                   <li>Pandas + Numpy</li>
@@ -323,18 +324,18 @@ const Home = () => {
                   <li>Tensorflow + Keras</li>
                   <li>Matplotlib + Seaborn</li>
                 </ul>
-                <br />
               </div>
 
+              <br></br>
+
               <div>
-                <h3>Technologies</h3>
+                <h3 style={{ marginBottom: '0px' }}>Technologies</h3>
                 <ul>
                   <li>Git + Github</li>
                   <li>Jupyter</li>
                   <li>VSCode</li>
-                  <li>RStudio</li>
                   <li>PyCharm + Intellij</li>
-                  <li>Latex</li>
+                  <li>Android Studio</li>
                 </ul>
               </div>
             </div>
