@@ -9,7 +9,8 @@ import imc from '../assets/imc.jpg';
 import cubist from '../assets/cubist systematic.png';
 import codepath from '../assets/code path.jpg';
 import goldman from '../assets/goldman sachs.png';
-import i2i from '../assets/i2i.png'
+import i2i from '../assets/i2i.png';
+import headstarter from '../assets/headstarter.png';
 
 const Home = () => {
   return (
@@ -196,6 +197,32 @@ const Home = () => {
         <div className="column right-column" style={{ flex: 1 }}>
           <div>
             <h1>Work Experience</h1>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={headstarter}
+                alt="headstarter"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Headstarter AI
+                <br />
+                <p>
+                  <i>Software Engineering Fellow</i>
+                  <br />
+                  July 2024 - Present 
+                </p>
+              </h3>
+            </div>
             
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
@@ -268,7 +295,7 @@ const Home = () => {
                 <p>
                   <i>Data and Scouting Analyst</i>
                   <br />
-                  February 2024 - Present
+                  February 2024 - May 2024
 
                   <br />
                   <br />
