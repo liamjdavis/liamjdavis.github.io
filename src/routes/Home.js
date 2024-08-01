@@ -84,7 +84,6 @@ const Home = () => {
                 <p>
                   <i>Bachelors of Arts in Mathematics and Computer Science</i>
                   <br />
-                  August 2023 - September 2027
                 </p>
               </h3>
             </div>
