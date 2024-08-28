@@ -20,12 +20,13 @@ const ProjectCard = ({ project }) => (
 const Projects = () => {
   const projects = [
     {
-      name:'Bar Hopper',
-      description: ['- Developed social network mobile app for bars to post promotions and for customers to organize bar meetups',
-      '- Managed secure user authentication and data storage utilizing Django ORM for robust user database management and login functionalities',
-      '-  Integrated Google Maps API for real-time location services, enabling users to seamlessly navigate to nearby bars',],
-      githubLink: 'https://github.com/liamjdavis/Bar-Hopper'
+      name:'EDGAR RAG Chatbot',
+      description: ['- Fine-tuned a RAG model with Llama 3.1-Instruct 8B to retrieve information \n from 10K and 10Q statements in the SEC EDGAR database',
+      '- Developed and deployed a web application with NextJS, FastAPI and PostgreSQL to serve the RAG agent',
+      '- Configured and managed Docker containers to improve security and scalability',],
+      githubLink: 'https://github.com/liamjdavis/EDGAR-RAG-Web-App'
     },
+
     {
       name:'Vendor Map',
       description: ['- Won 2nd Prize at 2024 Cubist Hackathon organized by Cubist Systematic Strategies',
@@ -34,6 +35,15 @@ const Projects = () => {
       '- Applied game theory principles to encourage collaborative decision-making among vendors'],
       githubLink: 'https://github.com/liamjdavis/P72-Hackathon'
     },
+    
+    {
+      name:'Bar Hopper',
+      description: ['- Developed social network mobile app for bars to post promotions and for customers to organize bar meetups',
+      '- Managed secure user authentication and data storage utilizing Django ORM for robust user database management and login functionalities',
+      '-  Integrated Google Maps API for real-time location services, enabling users to seamlessly navigate to nearby bars',],
+      githubLink: 'https://github.com/liamjdavis/Bar-Hopper'
+    },
+    
     {
       name: 'Stock Forecasters',
       description: ['- Built a LSTM network, GRU network and CNN to forecast stock prices in jupyter notebooks',

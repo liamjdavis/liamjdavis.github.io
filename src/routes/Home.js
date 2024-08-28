@@ -11,6 +11,7 @@ import codepath from '../assets/code path.jpg';
 import goldman from '../assets/goldman sachs.png';
 import i2i from '../assets/i2i.png';
 import headstarter from '../assets/headstarter.png';
+import akuna from '../assets/Akuna Capital.png';
 
 const Home = () => {
   return (
@@ -112,6 +113,31 @@ const Home = () => {
                 </p>
               </h3>
             </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={akuna}
+                alt="akuna"
+                style={{
+                  width: '250px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div>
+              <h3>
+                Akuna Capital <br />
+                <p>
+                  <i>Options 101</i>
+                  <br />
+                  July 2024
+                </p>
+              </h3>
+            </div>
           </div>
 
           <div>
@@ -191,11 +217,80 @@ const Home = () => {
               </h3>
             </div>
           </div>
+
+          <div>
+            <h1>Skills</h1>
+            <div>
+              <div>
+                <h3 style={{ marginBottom: '0px' }}> Programming Languages</h3>
+                <ul>
+                  <li>Python</li>
+                  <li>Java</li>
+                  <li>C/C++</li>
+                  <li>SQL (MySQL, SQLite)</li>
+                  <li>Javascript (Node, React)</li>
+                  <li>React Native</li>
+                </ul>
+              </div>
+
+              <br></br>
+
+              <div>
+                <h3 style={{ marginBottom: '0px' }}>Tools</h3>
+                <ul>
+                  <li>Scikit-learn</li>
+                  <li>Pandas + Numpy</li>
+                  <li>Pytorch</li>
+                  <li>Tensorflow + Keras</li>
+                  <li>Matplotlib + Seaborn</li>
+                </ul>
+              </div>
+
+              <br></br>
+
+              <div>
+                <h3 style={{ marginBottom: '0px' }}>Technologies</h3>
+                <ul>
+                  <li>Git + Github</li>
+                  <li>Jupyter</li>
+                  <li>VSCode</li>
+                  <li>PyCharm + Intellij</li>
+                  <li>Android Studio</li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="column right-column" style={{ flex: 1 }}>
           <div>
             <h1>Work Experience</h1>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={AmherstSeal}
+                alt="AmherstSeal"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Professor Andrew Wu's Research Group
+                <br />
+                <p>
+                  <i>Research Assistant</i>
+                  <br />
+                  August 2024 - Present
+                </p>
+              </h3>
+            </div>
 
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
@@ -218,7 +313,7 @@ const Home = () => {
                 <p>
                   <i>Software Engineering Fellow</i>
                   <br />
-                  July 2024 - Present 
+                  July 2024 - August 2024 
                 </p>
               </h3>
             </div>
@@ -324,48 +419,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div>
-            <h1>Skills</h1>
-            <div>
-              <div>
-                <h3 style={{ marginBottom: '0px' }}> Programming Languages</h3>
-                <ul>
-                  <li>Python</li>
-                  <li>Java</li>
-                  <li>C/C++</li>
-                  <li>SQL (MySQL, SQLite)</li>
-                  <li>Javascript (Node, React)</li>
-                  <li>React Native</li>
-                </ul>
-              </div>
-
-              <br></br>
-
-              <div>
-                <h3 style={{ marginBottom: '0px' }}>Tools</h3>
-                <ul>
-                  <li>Scikit-learn</li>
-                  <li>Pandas + Numpy</li>
-                  <li>Pytorch</li>
-                  <li>Tensorflow + Keras</li>
-                  <li>Matplotlib + Seaborn</li>
-                </ul>
-              </div>
-
-              <br></br>
-
-              <div>
-                <h3 style={{ marginBottom: '0px' }}>Technologies</h3>
-                <ul>
-                  <li>Git + Github</li>
-                  <li>Jupyter</li>
-                  <li>VSCode</li>
-                  <li>PyCharm + Intellij</li>
-                  <li>Android Studio</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>
