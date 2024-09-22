@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.decfd88a.css",
-    "main.js": "/static/js/main.8555653e.js",
+    "main.js": "/static/js/main.925ab6f7.js",
     "static/media/headshot.jpg": "/static/media/headshot.2a6a0eaaab601dbf4aa6.jpg",
     "static/media/hp.png": "/static/media/hp.5a6cb151c8bde031c942.png",
     "static/media/goldman sachs.png": "/static/media/goldman sachs.a76395bfa09a542d4635.png",
@@ -10,16 +10,17 @@
     "static/media/i2i.png": "/static/media/i2i.262c66d93020705be733.png",
     "static/media/imc.jpg": "/static/media/imc.a42d3978a36320fe180a.jpg",
     "static/media/amherst baseball.jpg": "/static/media/amherst baseball.b7ef23822cb5b74a3458.jpg",
+    "static/media/quant club.png": "/static/media/quant club.6bbfa185672eac91f867.png",
     "static/media/Akuna Capital.png": "/static/media/Akuna Capital.63b1787039941750fcc9.png",
     "static/media/code path.jpg": "/static/media/code path.aaf20470d9e7b62de5e2.jpg",
     "static/media/headstarter.png": "/static/media/headstarter.81de8b468034c06a7bdf.png",
     "static/media/cubist systematic.png": "/static/media/cubist systematic.1d3d791c28b90e8595f9.png",
     "index.html": "/index.html",
     "main.decfd88a.css.map": "/static/css/main.decfd88a.css.map",
-    "main.8555653e.js.map": "/static/js/main.8555653e.js.map"
+    "main.925ab6f7.js.map": "/static/js/main.925ab6f7.js.map"
   },
   "entrypoints": [
     "static/css/main.decfd88a.css",
-    "static/js/main.8555653e.js"
+    "static/js/main.925ab6f7.js"
   ]
 }
