@@ -12,6 +12,7 @@ import goldman from '../assets/goldman sachs.png';
 import i2i from '../assets/i2i.png';
 import headstarter from '../assets/headstarter.png';
 import akuna from '../assets/Akuna Capital.png';
+import quantclub from '../assets/quant club.png';
 
 const Home = () => {
   return (
@@ -54,10 +55,12 @@ const Home = () => {
       <div>
         <p>
           I'm a Mathematics and Computer Science student at Amherst College passionate about the intersection
-          between software development and quantitative research. I am also interested in sports analytics
-          (particularly baseball, football and soccer) and classical music. A fun fact about me is that I as a trombone player, I placed third at the 2022 Concours International Music Competition
-          and was a finalist at the 2023 Southeast Trombone Symposium Competition. I am constantly seeking opportunities to apply myself to new challenges.
-          Let's connect and explore opportunities to collaborate and create solutions together.
+          between software development and quantitative research. I have computer science experience in full stack
+          and AI engineering, AI research, and quantitative trading. I am currently researching Automated Reasoning with
+          Professor Andrew Wu, leading Amherst College's Quant Club as Vice President, and working on the engineering team of Ideas 2 Innovation,
+          Amherst College's first student-run startup incubator. Outside of academics, I am interested in sports analytics, specifically baseball, soccer and football.
+          I am always looking for new challenges to take on, so feel free to reach out about anything regarding AI research and engineering, quantitative trading, or sports analytics.
+          I am always open to email exchanges at <i>ljdavis27@amherst.edu</i> or <i>davisliam123@gmail.com</i>.
         </p>
       </div>
 
@@ -225,11 +228,11 @@ const Home = () => {
                 <h3 style={{ marginBottom: '0px' }}> Programming Languages</h3>
                 <ul>
                   <li>Python</li>
-                  <li>Java</li>
                   <li>C/C++</li>
+                  <li>Javascript (Node, React, Next)</li>
+                  <li>Java</li>            
                   <li>SQL (MySQL, SQLite)</li>
-                  <li>Javascript (Node, React)</li>
-                  <li>React Native</li>
+                  <li>HTML/CSS</li>
                 </ul>
               </div>
 
@@ -238,11 +241,21 @@ const Home = () => {
               <div>
                 <h3 style={{ marginBottom: '0px' }}>Tools</h3>
                 <ul>
+                  <li>PyTorch</li>
+                  <li>TensorFlow</li>
+                  <li>Django</li>
+                  <li>Databases: Firebase, PostgreSQL</li>
+                  <li>LLM Tools: Llama 3/3.1, OpenAI API, Huggingface, Microsoft Phi</li>
+                  <li>APIs: Google Maps API, OpenAI API</li>
                   <li>Scikit-learn</li>
-                  <li>Pandas + Numpy</li>
-                  <li>Pytorch</li>
-                  <li>Tensorflow + Keras</li>
+                  <li>Keras</li>
                   <li>Matplotlib + Seaborn</li>
+                  <li>Numpy</li>
+                  <li>Pandas</li>
+                  <li>React Native</li>
+                  <li>Cloudflare</li>
+                  <li>Docker</li>
+                  <li>Pinecone</li>
                 </ul>
               </div>
 
@@ -294,8 +307,8 @@ const Home = () => {
 
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
-                src={headstarter}
-                alt="headstarter"
+                src={quantclub}
+                alt="quantclub"
                 style={{
                   width: '100px',
                   height: '100px',
@@ -308,12 +321,12 @@ const Home = () => {
 
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <h3>
-                Headstarter AI
+                Amherst College Quant Club
                 <br />
                 <p>
-                  <i>Software Engineering Fellow</i>
+                  <i>Vice President</i>
                   <br />
-                  July 2024 - August 2024 
+                  September 2024 - Present
                 </p>
               </h3>
             </div>
@@ -337,9 +350,35 @@ const Home = () => {
                 Ideas 2 Innovation
                 <br />
                 <p>
-                  <i>Founding Software Engineer</i>
+                  <i>Co-Founder, Software Engineer</i>
                   <br />
-                  June 2024 - Present 
+                  July 2024 - Present
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={headstarter}
+                alt="headstarter"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Headstarter AI
+                <br />
+                <p>
+                  <i>Software Engineering Fellow</i>
+                  <br />
+                  July 2024 - August 2024 
                 </p>
               </h3>
             </div>

@@ -21,12 +21,18 @@ const Research = () => {
   const researchExperiences = [
     {
       title: 'Marabou 3.0',
-      description: ['- Engineering Improvements in Robustness for Marabou, a Neural Network Verification Framework',
+      description: ['- Implementing BaBSR heuristic for ReLU verification',
                     '- Updated Marabou to integrate Gurobi version 11',
                     '- Advanced functionality and versatility in line with the developments in Marabou 2.0'
       ],
       link: 'https://github.com/NeuralNetworkVerification/Marabou'
     },
+    {
+      title: 'Convex Optimization',
+      description: ['- Leading the research on applications of convex optimization in portfolio management with Amherst College Quant Club',
+      ],
+      link: 'https://github.com/ACquantclub/Applications-of-Convex-Optimization-in-Quantitative-Trading-and-Portfolio-Management'
+    }
   ];
 
   return (

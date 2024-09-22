@@ -21,7 +21,7 @@ const Projects = () => {
   const projects = [
     {
       name:'EDGAR RAG Chatbot',
-      description: ['- Fine-tuned a RAG model with Llama 3.1-Instruct 8B to retrieve information \n from 10K and 10Q statements in the SEC EDGAR database',
+      description: ['- Fine-tuned a RAG model with Microsoft Phi-3.5 to retrieve information \n from 10K and 10Q statements in the SEC EDGAR database',
       '- Developed and deployed a web application with NextJS, FastAPI and PostgreSQL to serve the RAG agent',
       '- Configured and managed Docker containers to improve security and scalability',],
       githubLink: 'https://github.com/liamjdavis/EDGAR-RAG-Web-App'
