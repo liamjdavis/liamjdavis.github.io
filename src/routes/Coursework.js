@@ -19,7 +19,7 @@ const Coursework = () => {
 
   const summer_2024 = [
     'CodePath Software Engineering',
-    'AlgoExpert MLExpert',
+    'AlgoExpert + MLExpert Self-Study',
     'Akuna Capital Options 101',
   ]
 
@@ -27,7 +27,7 @@ const Coursework = () => {
     'MATH-261 Differential Equations',
     'COSC-241 Artificial Intelligence',
     'COSC-175 Systems 1: Computer Organization and Design',
-    "LJST-265: Law's Monstrosity"
+    "ARCH/ARHA/BLST-125 Urban Africa"
   ]
 
   return (
