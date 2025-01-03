@@ -277,7 +277,7 @@ const Home = () => {
 
         <div className="column right-column" style={{ flex: 1 }}>
           <div>
-            <h1>Work Experience</h1>
+            <h1>Experience</h1>
 
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <img
@@ -295,10 +295,62 @@ const Home = () => {
 
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <h3>
-                Professor Andrew Wu's Research Group
+                IDEAS Lab
                 <br />
                 <p>
-                  <i>Research Assistant</i>
+                  <i>Research Engineer</i>
+                  <br />
+                  January 2025 - Present
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={i2i}
+                alt="i2i"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Ideas 2 Innovation
+                <br />
+                <p>
+                  <i>Founding Staff Software Engineer</i>
+                  <br />
+                  July 2024 - Present
+                </p>
+              </h3>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <img
+                src={AmherstSeal}
+                alt="AmherstSeal"
+                style={{
+                  width: '100px',
+                  height: '100px',
+                  borderRadius: '50%',
+                  objectFit: 'cover',
+                  marginBottom: '20px',
+                }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <h3>
+                Professor Andrew Wu Research Group
+                <br />
+                <p>
+                  <i>Artificial Intelligence Research Assistant</i>
                   <br />
                   August 2024 - Present
                 </p>
@@ -327,32 +379,6 @@ const Home = () => {
                   <i>Vice President</i>
                   <br />
                   September 2024 - Present
-                </p>
-              </h3>
-            </div>
-            
-            <div style={{ display: 'flex', justifyContent: 'center' }}>
-              <img
-                src={i2i}
-                alt="i2i"
-                style={{
-                  width: '100px',
-                  height: '100px',
-                  borderRadius: '50%',
-                  objectFit: 'cover',
-                  marginBottom: '20px',
-                }}
-              />
-            </div>
-
-            <div style={{ display: 'flex', justifyContent: 'center' }}>
-              <h3>
-                Ideas 2 Innovation
-                <br />
-                <p>
-                  <i>Co-Founder, Software Engineer</i>
-                  <br />
-                  July 2024 - Present
                 </p>
               </h3>
             </div>

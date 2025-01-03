@@ -20,6 +20,16 @@ const ProjectCard = ({ project }) => (
 const Projects = () => {
   const projects = [
     {
+      name: 'Amherst Connect',
+      description: [
+        '- Spearheaded execution with 5 engineers to deploy Django app centralizing campus events, serving 1,909 students',
+        '- Parsed 3 live data sources to scrape & display 100+ campus events daily, ensuring accurate & up-to-date event info',
+        '- Integrated unit tests & GitHub Actions to achieve 93% code coverage across 48,000+ lines of code'
+      ],
+      githubLink: 'https://github.com/ac-i2i-engineering/Access-Amherst'
+    },
+
+    {
       name:'EDGAR RAG Chatbot',
       description: ['- Fine-tuned a RAG model with Microsoft Phi-3.5 to retrieve information \n from 10K and 10Q statements in the SEC EDGAR database',
       '- Developed and deployed a web application with NextJS, FastAPI and PostgreSQL to serve the RAG agent',
@@ -34,14 +44,6 @@ const Projects = () => {
       '- Leveraged historical transit flows to predict population density',
       '- Applied game theory principles to encourage collaborative decision-making among vendors'],
       githubLink: 'https://github.com/liamjdavis/P72-Hackathon'
-    },
-    
-    {
-      name:'Bar Hopper',
-      description: ['- Developed social network mobile app for bars to post promotions and for customers to organize bar meetups',
-      '- Managed secure user authentication and data storage utilizing Django ORM for robust user database management and login functionalities',
-      '-  Integrated Google Maps API for real-time location services, enabling users to seamlessly navigate to nearby bars',],
-      githubLink: 'https://github.com/liamjdavis/Bar-Hopper'
     },
     
     {

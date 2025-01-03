@@ -30,6 +30,13 @@ const Coursework = () => {
     "ARCH/ARHA/BLST-125 Urban Africa"
   ]
 
+  const spring_2025 = [
+    'MATH-355 Real Analysis',
+    'COSC-345 Automated Reasoning',
+    'COSC-275 Systems 2: Operating Systems',
+    'ECON-207 Economics and Psychology'
+  ]
+
   return (
 
     <div>
@@ -37,6 +44,8 @@ const Coursework = () => {
       <h1> Coursework </h1>
 
       <div>
+        <SemesterContainer title="Spring 2025" courses={spring_2025} />
+        {}
         <SemesterContainer title="Fall 2024" courses={fall_2024} />
         {}
         <SemesterContainer title="Summer 2024" courses={summer_2024} />

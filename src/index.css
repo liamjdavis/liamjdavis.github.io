@@ -69,39 +69,59 @@ a {
 /* Container and columns */
 .container {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
   padding: 20px;
 }
 
 .column {
-  flex: 1;
+  flex: 0 0 50%; /* This forces columns to 50% width */
+  min-width: 300px; /* Prevents columns from becoming too narrow */
+  padding: 0 20px;
 }
 
-/* Responsive margins for columns */
 @media (max-width: 768px) {
-  .left-column,
-  .right-column {
-    margin-left: 20px;
-    margin-right: 20px;
+  .column {
+    flex: 0 0 100%;
+    width: 100%;
+    min-width: 0;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Update image containers */
+  div[style*="display: flex"][style*="justify-content: center"] {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  /* Center text content */
+  h3, p {
+    text-align: center;
+    width: 100%;
+  }
+
+  /* Adjust container spacing */
+  div[style*="display: flex"] {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
   }
 }
 
-@media (min-width: 768px) and (max-width: 992px) {
-  .left-column,
+/* Update desktop column styles */
+@media (min-width: 769px) {
+  .left-column, 
   .right-column {
-    margin-left: 50px;
-    margin-right: 50px;
-  }
-}
-
-@media (min-width: 992px) {
-  .left-column {
-    margin-left: 200px;
-    margin-right: 10px;
-  }
-  .right-column {
-    margin-left: 10px;
-    margin-right: 200px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0 20px;
+    margin: 0;
   }
 }
 
