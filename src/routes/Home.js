@@ -23,10 +23,11 @@ const Home = () => {
           src={Headshot}
           alt="Headshot"
           style={{
-            width: '250px',
-            height: '250px',
+            width: '400px',
+            height: '400px',
             borderRadius: '50%',
             objectFit: 'cover',
+            objectPosition: '50% 20%',
             marginBottom: '20px',
           }}
         />
