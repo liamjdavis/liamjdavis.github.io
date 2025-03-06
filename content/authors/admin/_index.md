@@ -104,5 +104,10 @@ awards:
     summary: |
       Awarded $1,500 for developing a Vendor Map, a full stack web application that streamed live foot traffic data and used game theory principles to optimally allocate food vendors.
 ---
+I'm an undergraduate student at Amherst College majoring in Math and Computer Science. My research aims to leverage automated reasoning to formally verify properties of AI-driven systems. As part of an international collaboration with Professor Clark Barrett (Stanford University), Professor Andrew Wu (Amherst College), and Professor Guy Katz (Hebrew University of Jerusalem), I work on advancing methods to prove the correctness and robustness of neural networks in safety-critical applications.
 
-I am curre
+My research centers around Marabou, an open-source verification tool and the fastest CPU-based verifier in the world. Currently, I am currently working on online learning for ReLU branching to improve verification efficiency.
+
+Beyond the field, I apply my software engineering skills as a Founding Engineer at Ideas 2 Innovation and as a Research Engineer at Amherst's IDEAS Lab. I also serve as the Vice President of Amherst Quant Club, where I lead teams in quant competitions, organize the perennial Amherst Quant Competition, and lead research projects revolving around topiocs in quantitative research.
+
+Through my work at HP Tech Ventures and other experiences, I've developed a holistic perspective on advancing rigours, innovative and technology solutions.
