@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Liam Davis
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Liam
+last_name: Davis
 
 # Status emoji
 status:
@@ -17,156 +17,92 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI Researcher, Software Engineer, Quant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Neural Network Verification Team (Stanford, Amherst, Hebrew University of Jerusalem)
+    url: https://github.com/NeuralNetworkVerification
+  - name: Ideas 2 Innovation
+    url: https://www.ac-i2i-engineering.github.io
+  - name: Amherst Quant Club
+    url: https://www.acquantclub.com/
+  - name: IDEAS Lab
+    url: https://sliao.people.amherst.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ljdavis27@amherst.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/liamjdavis
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/liam-j-davis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: BA in Computer Science and Mathematics
+    institution: Amherst College
+    date_start: 2023-09-01
+    date_end: 2027-05-30
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Research Engineer
+    company_name: IDEAS Lab
+    date_start: 2025-01-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+      - Engineering RBlocks, a block-based R-programming IDE with React & Firebase for 200+ intro statistics students each year
+      - Integrated Google Authentication & Firebase for secure code storage & retrieval for hundreds of users
+      - Built an automated CI/CD pipeline integrating Firebase for deployment, ensuring seamless updates & scalability
+  - position: Founding AI/ML Staff Software Engineer
+    company_name: Ideas 2 Innovation
+    date_start: 2024-07-01
+    summary: |
+      - Contributing cross-functionally to 6+ parallel projects, ensuring high code quality & best practices in a team of 21
+      - Deployed 3 AI/ML projects in 3 months, using Llama 3 & LangGraph to integrate AI agents into products
+      - Built robust CI/CD pipelines for testing, styling, & deployment, using 2000+ GitHub Actions minutes over 3 months
+      - Committed over 500k lines of code across web & backend systems over a 3 month period
+  - position: Artificial Intelligence Research Assistant
+    company_name: Professor Andrew Wu Research Group
+    date_start: 2024-08-01
+    summary: |
+      - Engineering the open source Deep Neural Networks (DNN) verification framework Marabou with C++ & Python
+      - Updated the Gurobi Optimizer version to 11, enhancing optimization capabilities by 41% in parallelized computing mode
+      - Implemented BaBSR branching heuristic to optimize ReLU splitting, reducing verification time by 25%
+      - Researching the application of reinforcement learning to deterministic branching strategies to improve them in real time
+  - position: Vice President
+    company_name: Amherst College Quant Club
+    date_start: 2024-09-01
+    summary: |
+      - Leading 2 concurrent quant research projects, coordinating weekly meetings & communication for 36 club members
+      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10,000+ trades in real time
+  - position: Business Analyst and VC Extern
+    company_name: HP Tech Ventures
+    date_start: 2024-05-01
+    date_end: 2024-07-31
+    summary: |
+      - Researched metrics, industry data, & business models for early-stage AI startups, identifying KPIs, OKRs & market trends
+      - Analyzed 6,000 rows of data with SQL & Tableau, uncovering underlying time-series trends to guide long-term investments
+      - Presented pitch decks recommending 3 high-potential technology startups, facilitating informed investment due diligence
+  - position: AI/ML Software Engineering Intern
+    company_name: Frio Energy Partners
+    date_start: 2024-01-01
+    date_end: 2024-02-29
+    summary: |
+      - Developed automated data pipeline to transfer financial statement data to company's DB, enhancing accuracy & efficiency
+      - Reduced manual data entry requirements by 95%, increasing end-to-end service SLA & thus eliminating transcription errors
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 2nd Prize at Cubist Hackathon
+    date: '2024-04-28'
+    awarder: Cubist Systematic Strategies
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded $1,500 for developing a Vendor Map, a full stack web application that streamed live foot traffic data and used game theory principles to optimally allocate food vendors.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am curre
