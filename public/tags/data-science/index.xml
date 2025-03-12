@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+      <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>MatPlus</title>
+      <link>http://localhost:1313/project/matplus/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/matplus/</guid>
+      <description>&lt;p&gt;MatPlus is a Python package that provides easy, convenient plotting capabilities built on top of matplotlib. It simplifies the creation of common visualization types with intuitive APIs.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

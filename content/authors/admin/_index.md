@@ -138,9 +138,10 @@ awards:
     date: '2025-03-01'
     awarder: Hult International
     summary: |
-      I am was named a national finalist for the 2025 Hult Prize by pitching TalentNexus.
+      I am was named a national finalist for the 2025 Hult Prize by pitching TalentNexus, an personalized AI onboarding experience to go from new hire to high performer.
 ---
 
 ## About Me
 
-Liam is a sophomore at Amherst College majoring in Mathematics and Computer Science. His research is focused on the formal verification of AI systems, and is a developer of the Marabou verification framework. He is currently advised by Andrew Wu at Amherst, Clark Barrett at Stanford, and Guy Katz at Hebrew University of Jerusalem. 
+Liam is a sophomore at Amherst College majoring in Mathematics and Computer Science with experience in AI research, software engineering, and quantitative research. He combines theoretical knowledge with practical engineering
+and business experience, bringing his pragmatic approach to solving complex problems across multiple domains.

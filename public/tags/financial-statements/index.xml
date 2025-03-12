@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Statements | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/financial-statements/</link>
+      <atom:link href="http://localhost:1313/tags/financial-statements/index.xml" rel="self" type="application/rss+xml" />
+    <description>Financial Statements</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Financial Statements</title>
+      <link>http://localhost:1313/tags/financial-statements/</link>
+    </image>
+    
+    <item>
+      <title>SEC Sleuth</title>
+      <link>http://localhost:1313/project/sec-sleuth/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sec-sleuth/</guid>
+      <description>&lt;p&gt;SEC Sleuth is a web interface designed to efficiently retrieve and present data from SEC filings, specifically the 10-Q and 10-K forms available through the EDGAR database. The application leverages a RAG fine-tuned on Microsoft Phi-3.5 Mini to provide accurate and contextually relevant information from these financial documents.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

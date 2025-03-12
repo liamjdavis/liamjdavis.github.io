@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Amherst Coursework</title>
+      <link>http://localhost:1313/project/amherst-coursework/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/amherst-coursework/</guid>
+      <description>&lt;p&gt;Matching engine streamlines the formation of three-person student teams, optimizing for collaboration and project success. It processes student data from a CSV file, incorporating information such as interests, project ideas, and goals. By leveraging cosine similarity calculations, the engine identifies students with closely related intellectual pursuits while ensuring a balanced distribution of technical, financial, and other essential skills critical for scaling up team productivity.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
