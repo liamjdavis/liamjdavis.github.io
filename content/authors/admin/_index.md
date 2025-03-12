@@ -90,7 +90,7 @@ work:
       - Researching the application of reinforcement learning to deterministic branching strategies to improve them in real time
       - Implemented BaBSR branching heuristic to improve ReLU splitting, reducing verification time by up to 31%
 
-  - position: Founding AI/ML Staff Software Engineer
+  - position: Founding AI/ML Senior Software Engineer
     company_name: Ideas 2 Innovation
     company_url: ''
     company_logo: ''
@@ -102,7 +102,7 @@ work:
       - Built robust CI/CD pipelines for testing, styling, & deployment, using 2000+ GitHub Actions minutes over 3 months
       - Committed over 200k lines of code across web & backend systems over a 3 month period
 
-  - position: President
+  - position: Vice President
     company_name: Amherst College Quant Club
     company_url: ''
     company_logo: ''
