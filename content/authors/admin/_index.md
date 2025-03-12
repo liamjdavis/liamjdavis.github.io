@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Liam Davis
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Liam
+last_name: Davis
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +17,130 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Researcher, Engineer, Quant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Amherst College
+    url: https://amherst.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ljdavis27@amherst.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/liamjdavis
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/liam-j-davis
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Q-jmBDwAAAAJ&hl=en&oi=sra
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Automated Reasoning
+  - Formal Methods
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: BA Mathematics and Computer Science
+    institution: Amherst College
+    date_start: 2023-09-01
+    date_end: 2027-05-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Breakthrough Tech AI Fellow
+    institution: MIT
+    date_start: 2025-05-01
+    date_end: 2025-08-01
+
+  - area: Certificate in Software Engineering
+    institution: CodePath
+    date_start: 2024-05-01
+    date_end: 2024-08-01
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: AI Researcher
+    company_name: Stanford AI Labs
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-06-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Incoming Summer 2025
+
+  - position: Research Engineer
+    company_name: IDEAS Lab
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2025-01-01
+    date_end: ''
+    summary: |2-
+      - Engineering RBlocks, a block-based R-programming IDE with React & Firebase for 200+ intro statistics students each year
+      - Integrated Google Authentication & Firebase for secure code storage & retrieval for hundreds of users
+      - Built an automated CI/CD pipeline integrating Firebase for deployment, ensuring seamless updates & scalability
+
+  - position: Artificial Intelligence Research Assistant
+    company_name: Professor Andrew Wu Research Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Engineering the open source Deep Neural Network (DNN) verification framework Marabou with C++ & Python
+      - Researching the application of reinforcement learning to deterministic branching strategies to improve them in real time
+      - Implemented BaBSR branching heuristic to improve ReLU splitting, reducing verification time by up to 31%
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - position: Founding AI/ML Staff Software Engineer
+    company_name: Ideas 2 Innovation
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-07-01
+    date_end: ''
+    summary: |
+      - Contributing cross-functionally to 6+ parallel projects, ensuring high code quality & best practices in a team of 24
+      - Deployed 3 AI/ML projects in 3 months, using Llama 3 & LangGraph to integrate AI agents into products
+      - Built robust CI/CD pipelines for testing, styling, & deployment, using 2000+ GitHub Actions minutes over 3 months
+      - Committed over 200k lines of code across web & backend systems over a 3 month period
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - position: President
+    company_name: Amherst College Quant Club
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |
+      - Leading 2 concurrent quant research projects, coordinating weekly meetings & communication for 36 club members
+      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10,000+ trades in real time
+
+  - position: Business Analyst and VC Extern
+    company_name: HP (Hewlett Packard) Tech Ventures
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: 2024-07-01
+    summary: |
+      - Researched metrics, industry data, & business models for early-stage AI startups, identifying KPIs, OKRs & market trends
+      - Analyzed 6000 rows of data with SQL & Tableau, uncovering underlying time-series trends to guide long-term investments
+      - Presented pitch decks recommending 3 high-potential startups, facilitating informed investment due diligence
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 2nd Prize at 2024 Cubist Hackathon
+    url: https://point72.com/blog/cubist-hosts-second-annual-hackathon-in-new-york/
+    date: '2024-04-01'
+    awarder: Cubist Systematic Strategies
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I won 2nd Prize at the 2024 Cubist Hackathon by Cubist Systematic Strategies and Point72 as the only first year undergrad invited amongst Masters and PhD students. For the hackathon, I built Vendor Map, an end-to-end web application that streams live NYC foot traffic data and combines it with game theory principles to optimally allocate food vendors across the city.
+  - title: United States National Finalist at the 2025 Hult Prize Startup Pitch Challenge
+    date: '2025-03-01'
+    awarder: Hult International
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I am was named a national finalist for the 2025 Hult Prize by pitching TalentNexus.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liam is a sophomore at Amherst College majoring in Mathematics and Computer Science. His research is focused on the formal verification of AI systems, and is a developer of the Marabou verification framework. He is currently advised by Andrew Wu at Amherst, Clark Barrett at Stanford, and Guy Katz at Hebrew University of Jerusalem. 
