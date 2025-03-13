@@ -110,7 +110,9 @@ work:
     date_end: ''
     summary: |
       - Leading 2 concurrent quant research projects, coordinating weekly meetings & communication for 36 club members
-      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10,000+ trades in real time
+      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10,000+ trades in real time while playing live news with ElevenLabs API
+      - Secured partnership with Summit Securities and Amherst College leading to $1100 in funding 
+      
 
   - position: Business Analyst and VC Extern
     company_name: HP (Hewlett Packard) Tech Ventures
