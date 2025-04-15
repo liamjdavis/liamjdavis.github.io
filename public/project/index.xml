@@ -5,12 +5,20 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
+    
+    <item>
+      <title>Amherst Coursework</title>
+      <link>http://localhost:1313/project/amherst-coursework/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/amherst-coursework/</guid>
+      <description>&lt;p&gt;Amherst Coursework is a web application that provides Amherst College students and faculty with an intuitive, advanced interface for course search.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>MatPlus</title>
@@ -29,14 +37,6 @@
     </item>
     
     <item>
-      <title>Resumax</title>
-      <link>http://localhost:1313/project/amherst-coursework/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/amherst-coursework/</guid>
-      <description>&lt;p&gt;Amherst Coursework is a web application that provides Amherst College students and faculty with an intuitive, advanced interface for course search.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Amherst Connect</title>
       <link>http://localhost:1313/project/amherst-connect/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
@@ -50,6 +50,14 @@
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/sec-sleuth/</guid>
       <description>&lt;p&gt;SEC Sleuth is a web interface designed to efficiently retrieve and present data from SEC filings, specifically the 10-Q and 10-K forms available through the EDGAR database. The application leverages a RAG fine-tuned on Microsoft Phi-3.5 Mini to provide accurate and contextually relevant information from these financial documents.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vendor Map</title>
+      <link>http://localhost:1313/project/vendor-map/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/vendor-map/</guid>
+      <description>&lt;p&gt;Vendor Map is a web application that streams live NYC foot traffic data and applies game theory principles to optimally allocate food vendors across the city. Vendor Map won 2nd prize at the 2024 Cubist Hackathon.&lt;/p&gt;</description>
     </item>
     
   </channel>

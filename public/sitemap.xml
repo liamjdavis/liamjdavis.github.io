@@ -11,7 +11,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/amherst-college/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/amherst-coursework/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/data-science/</loc>
@@ -40,14 +48,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/amherst-college/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/project/amherst-coursework/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/article/</loc>
@@ -112,6 +112,18 @@
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-streaming/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-theory/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/vendor-map/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/automated-reasoning/</loc>

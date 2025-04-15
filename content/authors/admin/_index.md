@@ -130,12 +130,24 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 2nd Prize at 2025 Cubist Hackathon
+    url: https://github.com/liamjdavis/Cubist-Hackathon-2025
+    date: '2025-04-01'
+    awarder: Cubist Systematic Strategies
+    summary: |
+      I won 2nd Prize at the 2025 Cubist Hackathon by Cubist Systematic Strategies and Point72, making me the only every two-time winner of the Cubist Hackathon. I built an advanced data visualization tool for NYC congestion data that serves as an all-in-one EDA playground, as well as streams live data for anomaly detection.  
   - title: 2nd Prize at 2024 Cubist Hackathon
     url: https://point72.com/blog/cubist-hosts-second-annual-hackathon-in-new-york/
     date: '2024-04-01'
     awarder: Cubist Systematic Strategies
     summary: |
       I won 2nd Prize at the 2024 Cubist Hackathon by Cubist Systematic Strategies and Point72 as the only first year undergrad invited amongst Masters and PhD students. For the hackathon, I built Vendor Map, an end-to-end web application that streams live NYC foot traffic data and combines it with game theory principles to optimally allocate food vendors across the city.
+  - title: Best Use of External Data at ASA Five College Datafest
+    url: https://www.science.smith.edu/datafest/
+    date: '2025-04-01'
+    awarder: American Statisticians Association
+    summary: |
+      I won best use of external data at the Five College Datafest hosted by the American Statisticians Association the same week I won the 2025 Cubist Hackathon. It was not a bad weekend.
   - title: United States National Finalist at the 2025 Hult Prize Startup Pitch Challenge
     date: '2025-03-01'
     awarder: Hult International

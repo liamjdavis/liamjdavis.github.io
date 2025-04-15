@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/amherst-college/</link>
       <atom:link href="http://localhost:1313/tags/amherst-college/index.xml" rel="self" type="application/rss+xml" />
     <description>Amherst College</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Amherst College</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Resumax</title>
+      <title>Amherst Coursework</title>
       <link>http://localhost:1313/project/amherst-coursework/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/amherst-coursework/</guid>
       <description>&lt;p&gt;Amherst Coursework is a web application that provides Amherst College students and faculty with an intuitive, advanced interface for course search.&lt;/p&gt;</description>
     </item>

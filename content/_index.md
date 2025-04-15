@@ -31,9 +31,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. 
+        My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. I also contribute to the Alpha Beta Crown framework. 
         
-        I'm am currently advised by Andrew Wu at Amherst, Clark Barrett at Stanford, and Guy Katz at Hebrew University of Jerusalem.
+        I'm currently working with several people, including Andrew Wu at Amherst College, Clark Barrett at Stanford, Guy Katz at Hebrew University of Jerusalem, and Huan Zhang at UIUC.
     design:
       columns: '1'
   - block: collection
@@ -47,6 +47,10 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
