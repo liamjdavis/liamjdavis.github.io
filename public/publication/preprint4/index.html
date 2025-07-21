@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: April 15, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: July 21, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -41,7 +41,7 @@
   
     
   
-  <meta name="description" content="The Stålmarck procedure is a  method for checking tautologies in propositional logic, known for its industrial applications in hardware verification. Despite its theoretical importance, the practical implementation of the algorithm presents significant optimization challenges. This paper explores enhancements to the  Stålmarck procedure by integrating modern SAT solving techniques." />
+  <meta name="description" content="In this paper, we introduce StalmarckSAT, the a modern re-implementation of the Stålmarck Procedure for SAT solving, and present two novel strategies to improve the Procedure, Cardinality Driven Branching (CDB) and Deductive Priority Ordering (DPO). CDB is a heuristic to improve branching with the dilemma rule, and DPO intelligently orders simple rules based on their deductive potential. Our results demonstrate improved solve times with both strategies." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/preprint4/" />
@@ -172,7 +172,6 @@
   
   
     
-    
   
   
 
@@ -181,16 +180,16 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@GetResearchDev" />
     <meta property="twitter:creator" content="@GetResearchDev" />
   
-  <meta property="og:site_name" content="Hugo Academic CV Theme" />
+  <meta property="og:site_name" content="Liam Davis" />
   <meta property="og:url" content="http://localhost:1313/publication/preprint4/" />
-  <meta property="og:title" content="Optimizations on the Stalmarck Procedure | Hugo Academic CV Theme" />
-  <meta property="og:description" content="The Stålmarck procedure is a  method for checking tautologies in propositional logic, known for its industrial applications in hardware verification. Despite its theoretical importance, the practical implementation of the algorithm presents significant optimization challenges. This paper explores enhancements to the  Stålmarck procedure by integrating modern SAT solving techniques." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_645fa481986063ef.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_645fa481986063ef.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Two Strategies to Improve the Stålmarck Procedure | Liam Davis" />
+  <meta property="og:description" content="In this paper, we introduce StalmarckSAT, the a modern re-implementation of the Stålmarck Procedure for SAT solving, and present two novel strategies to improve the Procedure, Cardinality Driven Branching (CDB) and Deductive Priority Ordering (DPO). CDB is a heuristic to improve branching with the dilemma rule, and DPO intelligently orders simple rules based on their deductive potential. Our results demonstrate improved solve times with both strategies." /><meta property="og:image" content="http://localhost:1313/publication/preprint4/featured.png" />
+    <meta property="twitter:image" content="http://localhost:1313/publication/preprint4/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -222,7 +221,11 @@
     "@type": "WebPage",
     "@id": "http://localhost:1313/publication/preprint4/"
   },
-  "headline": "Optimizations on the Stalmarck Procedure",
+  "headline": "Two Strategies to Improve the Stålmarck Procedure",
+  
+  "image": [
+    "http://localhost:1313/publication/preprint4/featured.png"
+  ],
   
   "datePublished": "2024-03-01T00:00:00Z",
   "dateModified": "2024-03-01T00:00:00Z",
@@ -234,13 +237,13 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Hugo Academic CV Theme",
+    "name": "Liam Davis",
     "logo": {
       "@type": "ImageObject",
       "url": "http://localhost:1313/media/icon_hu_1df060215326dd50.png"
     }
   },
-  "description": "The Stålmarck procedure is a  method for checking tautologies in propositional logic, known for its industrial applications in hardware verification. Despite its theoretical importance, the practical implementation of the algorithm presents significant optimization challenges. This paper explores enhancements to the  Stålmarck procedure by integrating modern SAT solving techniques."
+  "description": "In this paper, we introduce StalmarckSAT, the a modern re-implementation of the Stålmarck Procedure for SAT solving, and present two novel strategies to improve the Procedure, Cardinality Driven Branching (CDB) and Deductive Priority Ordering (DPO). CDB is a heuristic to improve branching with the dilemma rule, and DPO intelligently orders simple rules based on their deductive potential. Our results demonstrate improved solve times with both strategies."
 }
 </script>
 
@@ -249,7 +252,7 @@
   
 
 
-  <title>Optimizations on the Stalmarck Procedure | Hugo Academic CV Theme</title>
+  <title>Two Strategies to Improve the Stålmarck Procedure | Liam Davis</title>
 
   
   
@@ -616,7 +619,7 @@
   <nav class="navbar px-3 flex justify-left">
     <div class="order-0 h-100">
       
-      <a class="navbar-brand" href="/" title="Hugo Academic CV Theme">
+      <a class="navbar-brand" href="/" title="Liam Davis">
         Liam Davis
       </a>
     </div>
@@ -917,7 +920,7 @@
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/publication/preprint2/"
     
-  >Online Learning for Neural Network Verification
+  >Lookahead Branching for Neural Network Verification
     </a>
               
             </li><li class="flex flex-col open"><a
@@ -925,7 +928,7 @@
       sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
     href="/publication/preprint4/"
     
-  >Optimizations on the Stalmarck Procedure
+  >Two Strategies to Improve the Stålmarck Procedure
     </a>
   
               
@@ -1077,7 +1080,7 @@
 
       
 
-      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Optimizations on the Stalmarck Procedure</h1>
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Two Strategies to Improve the Stålmarck Procedure</h1>
 
       <div class="mt-4 mb-16">
       <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 1, 2024</span><span class="mx-1">·</span>
@@ -1117,6 +1120,26 @@
       
       
       
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 479px;">
+        <div style="position: relative">
+          <img src="/publication/preprint4/featured_hu_92e3cb0be17744e9.webp" width="720" height="479" alt="" class="featured-image">
+          
+        </div>
+      </div>
+      
 
       
       
@@ -1124,7 +1147,7 @@
 
         
           <div class="font-bold text-2xl">Abstract</div>
-          <div>The Stålmarck procedure is a  method for checking tautologies in propositional logic, known for its industrial applications in hardware verification. Despite its theoretical importance, the practical implementation of the algorithm presents significant optimization challenges. This paper explores enhancements to the  Stålmarck procedure by integrating modern SAT solving techniques.</div>
+          <div>In this paper, we introduce StalmarckSAT, the a modern re-implementation of the Stålmarck Procedure for SAT solving, and present two novel strategies to improve the Procedure, Cardinality Driven Branching (CDB) and Deductive Priority Ordering (DPO). CDB is a heuristic to improve branching with the dilemma rule, and DPO intelligently orders simple rules based on their deductive potential. Our results demonstrate improved solve times with both strategies.</div>
         
 
         
@@ -1138,6 +1161,9 @@
         
 
         
+          <div class="font-bold text-2xl">Publication</div>
+          <div>Under Review at FMCAD 2025 Student Forum</div>
+        
 
         
 
@@ -1149,7 +1175,7 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <p>We make optimizations in the form of clause learning and directional heuristics on the Stålmarck procedure for boolean satisfiability. This research explores how modern SAT solving techniques can enhance the classical Stålmarck algorithm, making it more practical for industry applications.</p>
+        <p>We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.</p>
 
       </div>
 
@@ -1190,7 +1216,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;text=Optimizations&#43;on&#43;the&#43;Stalmarck&#43;Procedure"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;text=Two&#43;Strategies&#43;to&#43;Improve&#43;the&#43;St%C3%A5lmarck&#43;Procedure"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1208,7 +1234,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;t=Optimizations&#43;on&#43;the&#43;Stalmarck&#43;Procedure"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;t=Two&#43;Strategies&#43;to&#43;Improve&#43;the&#43;St%C3%A5lmarck&#43;Procedure"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1228,7 +1254,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Optimizations%20on%20the%20Stalmarck%20Procedure&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F"
+    href="mailto:?subject=Two%20Strategies%20to%20Improve%20the%20St%C3%A5lmarck%20Procedure&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1246,7 +1272,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;title=Optimizations&#43;on&#43;the&#43;Stalmarck&#43;Procedure"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F&amp;title=Two&#43;Strategies&#43;to&#43;Improve&#43;the&#43;St%C3%A5lmarck&#43;Procedure"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1264,7 +1290,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Optimizations&#43;on&#43;the&#43;Stalmarck&#43;Procedure%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F"
+    href="whatsapp://send?text=Two&#43;Strategies&#43;to&#43;Improve&#43;the&#43;St%C3%A5lmarck&#43;Procedure%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint4%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1423,7 +1449,7 @@
           <span class="flex flex-col">
             <span
               class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >Online Learning for Neural Network Verification</span>
+            >Lookahead Branching for Neural Network Verification</span>
             <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
               
                 Dec 1, 2024

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAT Solver | Liam Davis</title>
+    <link>http://localhost:1313/tags/sat-solver/</link>
+      <atom:link href="http://localhost:1313/tags/sat-solver/index.xml" rel="self" type="application/rss+xml" />
+    <description>SAT Solver</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>SAT Solver</title>
+      <link>http://localhost:1313/tags/sat-solver/</link>
+    </image>
+    
+    <item>
+      <title>StalmarckSAT</title>
+      <link>http://localhost:1313/project/stalmarcksat/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stalmarcksat/</guid>
+      <description>&lt;p&gt;Access Amherst is a web application created to connect Amherst College students through organized, accessible, and diverse event updates on campus. The platform provides real-time information on campus events, allowing students to plan their schedules effectively.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

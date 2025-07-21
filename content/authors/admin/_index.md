@@ -68,12 +68,33 @@ work:
     summary: |2-
       - Incoming Summer 2025
 
+  - position: Co-Director of Engineering
+    company_name: Ideas 2 Innovation
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-01
+    date_end: ''
+    summary: |
+      - Contributing cross-functionally to 7+ parallel projects, ensuring high code quality & best practices in a team of 25
+      - Deployed 4 end-to-end applications over a 6 month period all with 90%+ code coverage and automated deployment pipelines
+      - Built robust CI/CD pipelines for testing, styling, & deployment, using 2000+ GitHub Actions minutes over 3 months
+
+  - position: President
+    company_name: Amherst College Quant Club
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-04-01
+    date_end: ''
+    summary: |
+      - Coordinating meetings & communication for 36 club members, conducting weekly C++ review sessions and trading games
+      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10k+ trades in real time
+
   - position: Research Engineer
     company_name: IDEAS Lab
     company_url: ''
     company_logo: ''
     date_start: 2025-01-01
-    date_end: ''
+    date_end: '2025-06-01'
     summary: |2-
       - Engineering RBlocks, a block-based R-programming IDE with React & Firebase for 200+ intro statistics students each year
       - Integrated Google Authentication & Firebase for secure code storage & retrieval for hundreds of users
@@ -86,33 +107,10 @@ work:
     date_start: 2024-08-01
     date_end: ''
     summary: |
-      - Engineering the open source Deep Neural Network (DNN) verification framework Marabou with C++ & Python
-      - Researching the application of reinforcement learning to deterministic branching strategies to improve them in real time
-      - Implemented BaBSR branching heuristic to improve ReLU splitting, reducing verification time by up to 31%
-
-  - position: Founding AI/ML Senior Software Engineer
-    company_name: Ideas 2 Innovation
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-07-01
-    date_end: ''
-    summary: |
-      - Contributing cross-functionally to 6+ parallel projects, ensuring high code quality & best practices in a team of 24
-      - Deployed 3 AI/ML projects in 3 months, using Llama 3 & LangGraph to integrate AI agents into products
-      - Built robust CI/CD pipelines for testing, styling, & deployment, using 2000+ GitHub Actions minutes over 3 months
-      - Committed over 200k lines of code across web & backend systems over a 3 month period
-
-  - position: Vice President
-    company_name: Amherst College Quant Club
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: |
-      - Leading 2 concurrent quant research projects, coordinating weekly meetings & communication for 36 club members
-      - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10,000+ trades in real time while playing live news with ElevenLabs API
-      - Secured partnership with Summit Securities and Amherst College leading to $1100 in funding 
-      
+      - Engineering the open source Deep Neural Networks (DNN) verification framework Marabou with C++ & Python
+      - Concurrently developing the alpha-beta-CROWN framework, leveraging Pytorch’s CUDA acceleration for parallelization
+      - Developed the novel lookahead branching heuristic for branch-and-bound, improving verification time by up to 30%
+      - Submitted first-author paper to NeurIPS 2025 on the lookahead branching heuristic to improve branch-and-bound
 
   - position: Business Analyst and VC Extern
     company_name: HP (Hewlett Packard) Tech Ventures
@@ -130,12 +128,24 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Y Combinator AI Startup School Fellow 
+    url: https://www.ycombinator.com/blog/ai-startupschool
+    date: '2025-06-01'
+    awarder: Y Combinator
+    summary: |
+      I was selected amongst ~20k applicants as a Y Combinator AI Startup School fellow that led to the opportunity to meet people like Satya Nadella, Fei Fei Li, Andrej Karpathy, and John Jumper.
   - title: 2nd Prize at 2025 Cubist Hackathon
     url: https://github.com/liamjdavis/Cubist-Hackathon-2025
     date: '2025-04-01'
     awarder: Cubist Systematic Strategies
     summary: |
       I won 2nd Prize at the 2025 Cubist Hackathon by Cubist Systematic Strategies and Point72, making me the only every two-time winner of the Cubist Hackathon. I built an advanced data visualization tool for NYC congestion data that serves as an all-in-one EDA playground, as well as streams live data for anomaly detection.  
+  - title: Two Sigma New Seeker's Summit Fellow
+    url: https://www.twosigma.com/new-seekers-summit/
+    date: '2025-01-01'
+    awarder: Two Sigma
+    summary: |
+      I was selected to participate in Two Sigma's New Seeker's Summit to engage with quant developers and researchers at Two Sigma and learn about the firm.
   - title: 2nd Prize at 2024 Cubist Hackathon
     url: https://point72.com/blog/cubist-hosts-second-annual-hackathon-in-new-york/
     date: '2024-04-01'
@@ -157,5 +167,5 @@ awards:
 
 ## About Me
 
-Liam is a sophomore at Amherst College majoring in Mathematics and Computer Science with experience in AI research, software engineering, and quantitative research. He combines theoretical knowledge with practical engineering
+Liam is a junior at Amherst College majoring in Mathematics and Computer Science with experience in AI research, software engineering, and quantitative research. He combines theoretical knowledge with practical engineering
 and business experience, bringing his pragmatic approach to solving complex problems across multiple domains.

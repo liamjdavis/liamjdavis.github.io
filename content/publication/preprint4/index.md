@@ -1,5 +1,5 @@
 ---
-title: "Optimizations on the Stalmarck Procedure"
+title: "Two Strategies to Improve the Stålmarck Procedure"
 authors:
 - admin
 date: "2024-03-01T00:00:00Z"
@@ -14,10 +14,10 @@ publishDate: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: Under Review at FMCAD 2025 Student Forum
 publication_short: ""
 
-abstract: The Stålmarck procedure is a  method for checking tautologies in propositional logic, known for its industrial applications in hardware verification. Despite its theoretical importance, the practical implementation of the algorithm presents significant optimization challenges. This paper explores enhancements to the  Stålmarck procedure by integrating modern SAT solving techniques. 
+abstract: In this paper, we introduce StalmarckSAT, the a modern re-implementation of the Stålmarck Procedure for SAT solving, and present two novel strategies to improve the Procedure, Cardinality Driven Branching (CDB) and Deductive Priority Ordering (DPO). CDB is a heuristic to improve branching with the dilemma rule, and DPO intelligently orders simple rules based on their deductive potential. Our results demonstrate improved solve times with both strategies.
 tags:
 - Formal Methods
 - Automated Reasoning
@@ -36,4 +36,4 @@ image:
 
 ---
 
-We make optimizations in the form of clause learning and directional heuristics on the Stålmarck procedure for boolean satisfiability. This research explores how modern SAT solving techniques can enhance the classical Stålmarck algorithm, making it more practical for industry applications.
+We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure. 

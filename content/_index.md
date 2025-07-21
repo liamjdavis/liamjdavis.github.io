@@ -31,7 +31,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. I also contribute to the Alpha Beta Crown framework. 
+        My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. I also contribute to the alpha-beta-CROWN framework. 
         
         I'm currently working with several people, including Andrew Wu at Amherst College, Clark Barrett at Stanford, Guy Katz at Hebrew University of Jerusalem, and Huan Zhang at UIUC.
     design:

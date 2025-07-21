@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
+    <title>Liam Davis</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <description>Liam Davis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Hugo Academic CV Theme</title>
+      <title>Liam Davis</title>
       <link>http://localhost:1313/</link>
     </image>
     
@@ -31,6 +31,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>StalmarckSAT</title>
+      <link>http://localhost:1313/project/stalmarcksat/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stalmarcksat/</guid>
+      <description>&lt;p&gt;StalmarckSAT is the only open source SAT solver based on the Stålmarck Procedure. It is designed to provide researchers a solver to improve the procedure and bring the procedure back to the forefront of SAT solving after 30 years of dormancy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,11 +84,11 @@
     </item>
     
     <item>
-      <title>Online Learning for Neural Network Verification</title>
+      <title>Lookahead Branching for Neural Network Verification</title>
       <link>http://localhost:1313/publication/preprint2/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint2/</guid>
-      <description>&lt;p&gt;This ongoing research explores the application of online learning techniques to improve neural network verification efficiency. By developing reinforcement learning methods that adapt branching strategies during verification, we aim to significantly reduce computational costs while maintaining formal guarantees. Our work extends the Marabou verification framework with learned decision heuristics that show promise for overcoming scalability challenges in neural network safety verification.&lt;/p&gt;
+      <description>&lt;p&gt;We present a general lookahead branching method for branch-and-bound in neural network verification, and demonstrate that spending more time at key points in branch-and-bound evaluating branching decisions leads to more efficient verification.&lt;/p&gt;
 </description>
     </item>
     
@@ -117,11 +125,11 @@
     </item>
     
     <item>
-      <title>Optimizations on the Stalmarck Procedure</title>
+      <title>Two Strategies to Improve the Stålmarck Procedure</title>
       <link>http://localhost:1313/publication/preprint4/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint4/</guid>
-      <description>&lt;p&gt;We make optimizations in the form of clause learning and directional heuristics on the Stålmarck procedure for boolean satisfiability. This research explores how modern SAT solving techniques can enhance the classical Stålmarck algorithm, making it more practical for industry applications.&lt;/p&gt;
+      <description>&lt;p&gt;We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.&lt;/p&gt;
 </description>
     </item>
     
@@ -338,7 +346,7 @@
 
 
 
-&lt;div id=&#34;chart-352978164&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271693485&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -356,7 +364,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-352978164&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-271693485&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

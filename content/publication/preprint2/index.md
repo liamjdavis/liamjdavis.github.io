@@ -1,5 +1,5 @@
 ---
-title: "Online Learning for Neural Network Verification"
+title: "Lookahead Branching for Neural Network Verification"
 authors:
 - admin
 date: "2024-12-01"
@@ -14,10 +14,10 @@ publishDate: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Under Review at NeurIPS 2025"
 publication_short: ""
 
-abstract: Formal verification of neural networks is an essential component for deploying AI in safety-critical applications, but current approaches often struggle with scalability and efficiency. This work investigates how online learning techniques can dynamically improve branching in neural network verification frameworks like Marabou, Beta-Crown, and NeuralSAT. We are developing reinforcement learning methods that adaptively select branching variables during the verification process, potentially reducing verification time. Our preliminary explorations suggest that adaptive, learned heuristics may outperform static branching rules across various network architectures and verification queries. This research aims to address key bottlenecks in neural network verification, contributing to more scalable and reliable safety guarantees for deep learning systems.
+abstract: In this paper, we investigate the effect of lookahead branching strategy in neural network verification. We present a general recipe for integrating lookahead into any branch- and-bound search framework, and show that the current state-of-the-art heuristic, FSB, can be viewed as a specific case of lookahead. We also describe how, in addition to guiding branching, lookahead can generate additional lemmas that accelerate verification. We instantiate the method in two representative branch-and-bound-based verifiers (Marabou and α-β-CROWN), and demonstrate consistent reductions in overall verification time across both systems.
 
 tags:
 - Artificial Intelligence
@@ -37,4 +37,4 @@ image:
 
 ---
 
-This ongoing research explores the application of online learning techniques to improve neural network verification efficiency. By developing reinforcement learning methods that adapt branching strategies during verification, we aim to significantly reduce computational costs while maintaining formal guarantees. Our work extends the Marabou verification framework with learned decision heuristics that show promise for overcoming scalability challenges in neural network safety verification.
+We present a general lookahead branching method for branch-and-bound in neural network verification, and demonstrate that spending more time at key points in branch-and-bound evaluating branching decisions leads to more efficient verification.

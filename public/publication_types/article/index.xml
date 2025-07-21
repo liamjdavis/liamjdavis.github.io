@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article | Hugo Academic CV Theme</title>
+    <title>Article | Liam Davis</title>
     <link>http://localhost:1313/publication_types/article/</link>
       <atom:link href="http://localhost:1313/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
@@ -31,20 +31,20 @@
     </item>
     
     <item>
-      <title>Online Learning for Neural Network Verification</title>
+      <title>Lookahead Branching for Neural Network Verification</title>
       <link>http://localhost:1313/publication/preprint2/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint2/</guid>
-      <description>&lt;p&gt;This ongoing research explores the application of online learning techniques to improve neural network verification efficiency. By developing reinforcement learning methods that adapt branching strategies during verification, we aim to significantly reduce computational costs while maintaining formal guarantees. Our work extends the Marabou verification framework with learned decision heuristics that show promise for overcoming scalability challenges in neural network safety verification.&lt;/p&gt;
+      <description>&lt;p&gt;We present a general lookahead branching method for branch-and-bound in neural network verification, and demonstrate that spending more time at key points in branch-and-bound evaluating branching decisions leads to more efficient verification.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Optimizations on the Stalmarck Procedure</title>
+      <title>Two Strategies to Improve the Stålmarck Procedure</title>
       <link>http://localhost:1313/publication/preprint4/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint4/</guid>
-      <description>&lt;p&gt;We make optimizations in the form of clause learning and directional heuristics on the Stålmarck procedure for boolean satisfiability. This research explores how modern SAT solving techniques can enhance the classical Stålmarck algorithm, making it more practical for industry applications.&lt;/p&gt;
+      <description>&lt;p&gt;We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.&lt;/p&gt;
 </description>
     </item>
     
