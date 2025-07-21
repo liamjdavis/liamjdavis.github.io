@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automated Reasoning | Liam Davis</title>
-    <link>http://localhost:1313/tags/automated-reasoning/</link>
-      <atom:link href="http://localhost:1313/tags/automated-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liamjdavis.github.io/tags/automated-reasoning/</link>
+      <atom:link href="https://liamjdavis.github.io/tags/automated-reasoning/index.xml" rel="self" type="application/rss+xml" />
     <description>Automated Reasoning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Automated Reasoning</title>
-      <link>http://localhost:1313/tags/automated-reasoning/</link>
+      <link>https://liamjdavis.github.io/tags/automated-reasoning/</link>
     </image>
     
     <item>
       <title>Two Strategies to Improve the Stålmarck Procedure</title>
-      <link>http://localhost:1313/publication/preprint4/</link>
+      <link>https://liamjdavis.github.io/publication/preprint4/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint4/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint4/</guid>
       <description>&lt;p&gt;We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.&lt;/p&gt;
 </description>
     </item>

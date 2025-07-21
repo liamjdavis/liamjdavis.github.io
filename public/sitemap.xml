@@ -2,207 +2,215 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>https://liamjdavis.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://liamjdavis.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://liamjdavis.github.io/project/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/amherst-college/</loc>
+    <loc>https://liamjdavis.github.io/tags/sat-solver/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liamjdavis.github.io/project/stalmarcksat/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liamjdavis.github.io/tags/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liamjdavis.github.io/tags/amherst-college/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/amherst-coursework/</loc>
+    <loc>https://liamjdavis.github.io/project/amherst-coursework/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
+    <loc>https://liamjdavis.github.io/tags/data-science/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/llms/</loc>
+    <loc>https://liamjdavis.github.io/tags/llms/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/matplus/</loc>
+    <loc>https://liamjdavis.github.io/project/matplus/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nlp/</loc>
+    <loc>https://liamjdavis.github.io/tags/nlp/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://liamjdavis.github.io/tags/python/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/resumax/</loc>
+    <loc>https://liamjdavis.github.io/project/resumax/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>https://liamjdavis.github.io/publication_types/article/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <loc>https://liamjdavis.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint1/</loc>
+    <loc>https://liamjdavis.github.io/publication/preprint1/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/formal-methods/</loc>
+    <loc>https://liamjdavis.github.io/tags/formal-methods/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://liamjdavis.github.io/publication_types/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://liamjdavis.github.io/publication/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/satisfiability/</loc>
+    <loc>https://liamjdavis.github.io/tags/satisfiability/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/educational-technology/</loc>
+    <loc>https://liamjdavis.github.io/tags/educational-technology/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint3/</loc>
+    <loc>https://liamjdavis.github.io/publication/preprint3/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-safety/</loc>
+    <loc>https://liamjdavis.github.io/tags/ai-safety/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint2/</loc>
+    <loc>https://liamjdavis.github.io/publication/preprint2/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/amherst-connect/</loc>
+    <loc>https://liamjdavis.github.io/project/amherst-connect/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/campus-events/</loc>
+    <loc>https://liamjdavis.github.io/tags/campus-events/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/financial-statements/</loc>
+    <loc>https://liamjdavis.github.io/tags/financial-statements/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/sec-sleuth/</loc>
+    <loc>https://liamjdavis.github.io/project/sec-sleuth/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://liamjdavis.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-streaming/</loc>
+    <loc>https://liamjdavis.github.io/tags/data-streaming/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/game-theory/</loc>
+    <loc>https://liamjdavis.github.io/tags/game-theory/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/vendor-map/</loc>
+    <loc>https://liamjdavis.github.io/project/vendor-map/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/automated-reasoning/</loc>
+    <loc>https://liamjdavis.github.io/tags/automated-reasoning/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint4/</loc>
+    <loc>https://liamjdavis.github.io/publication/preprint4/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>https://liamjdavis.github.io/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>https://liamjdavis.github.io/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://liamjdavis.github.io/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
+    <loc>https://liamjdavis.github.io/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://liamjdavis.github.io/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
+    <loc>https://liamjdavis.github.io/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/second-brain/</loc>
+    <loc>https://liamjdavis.github.io/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/data-visualization/</loc>
+    <loc>https://liamjdavis.github.io/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://liamjdavis.github.io/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/teach-courses/</loc>
+    <loc>https://liamjdavis.github.io/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://liamjdavis.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
+    <loc>https://liamjdavis.github.io/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://liamjdavis.github.io/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/js/</loc>
+    <loc>https://liamjdavis.github.io/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/python/</loc>
+    <loc>https://liamjdavis.github.io/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://liamjdavis.github.io/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/project-management/</loc>
+    <loc>https://liamjdavis.github.io/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://liamjdavis.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

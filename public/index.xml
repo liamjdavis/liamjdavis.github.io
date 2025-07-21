@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liam Davis</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liamjdavis.github.io/</link>
+      <atom:link href="https://liamjdavis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Liam Davis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Liam Davis</title>
-      <link>http://localhost:1313/</link>
+      <link>https://liamjdavis.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://liamjdavis.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://liamjdavis.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,109 +35,109 @@
     
     <item>
       <title>StalmarckSAT</title>
-      <link>http://localhost:1313/project/stalmarcksat/</link>
+      <link>https://liamjdavis.github.io/project/stalmarcksat/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stalmarcksat/</guid>
+      <guid>https://liamjdavis.github.io/project/stalmarcksat/</guid>
       <description>&lt;p&gt;StalmarckSAT is the only open source SAT solver based on the Stålmarck Procedure. It is designed to provide researchers a solver to improve the procedure and bring the procedure back to the forefront of SAT solving after 30 years of dormancy.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Amherst Coursework</title>
-      <link>http://localhost:1313/project/amherst-coursework/</link>
+      <link>https://liamjdavis.github.io/project/amherst-coursework/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/amherst-coursework/</guid>
+      <guid>https://liamjdavis.github.io/project/amherst-coursework/</guid>
       <description>&lt;p&gt;Amherst Coursework is a web application that provides Amherst College students and faculty with an intuitive, advanced interface for course search.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MatPlus</title>
-      <link>http://localhost:1313/project/matplus/</link>
+      <link>https://liamjdavis.github.io/project/matplus/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/matplus/</guid>
+      <guid>https://liamjdavis.github.io/project/matplus/</guid>
       <description>&lt;p&gt;MatPlus is a Python package that provides easy, convenient plotting capabilities built on top of matplotlib. It simplifies the creation of common visualization types with intuitive APIs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Resumax</title>
-      <link>http://localhost:1313/project/resumax/</link>
+      <link>https://liamjdavis.github.io/project/resumax/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/resumax/</guid>
+      <guid>https://liamjdavis.github.io/project/resumax/</guid>
       <description>&lt;p&gt;Resumax is a personalized AI resume reviewer built with Llama 3.2 for the Loeb Career Center at Amherst College.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Evaluating SAT and SMT Solvers on Large-Scale Sudoku Puzzles</title>
-      <link>http://localhost:1313/publication/preprint1/</link>
+      <link>https://liamjdavis.github.io/publication/preprint1/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint1/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint1/</guid>
       <description>&lt;p&gt;We benchmark traditional SAT Solvers and modern SMT Solvers against each other with 25x25 Sudoku, deriving insights on the evolution of satisfiability.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RBlocks: Block Programming IDE for R</title>
-      <link>http://localhost:1313/publication/preprint3/</link>
+      <link>https://liamjdavis.github.io/publication/preprint3/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint3/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint3/</guid>
       <description>&lt;p&gt;RBlocks is a block-based R IDE designed to be an introductory programming interface for Statistics students.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lookahead Branching for Neural Network Verification</title>
-      <link>http://localhost:1313/publication/preprint2/</link>
+      <link>https://liamjdavis.github.io/publication/preprint2/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint2/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint2/</guid>
       <description>&lt;p&gt;We present a general lookahead branching method for branch-and-bound in neural network verification, and demonstrate that spending more time at key points in branch-and-bound evaluating branching decisions leads to more efficient verification.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Amherst Connect</title>
-      <link>http://localhost:1313/project/amherst-connect/</link>
+      <link>https://liamjdavis.github.io/project/amherst-connect/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/amherst-connect/</guid>
+      <guid>https://liamjdavis.github.io/project/amherst-connect/</guid>
       <description>&lt;p&gt;Access Amherst is a web application created to connect Amherst College students through organized, accessible, and diverse event updates on campus. The platform provides real-time information on campus events, allowing students to plan their schedules effectively.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SEC Sleuth</title>
-      <link>http://localhost:1313/project/sec-sleuth/</link>
+      <link>https://liamjdavis.github.io/project/sec-sleuth/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/sec-sleuth/</guid>
+      <guid>https://liamjdavis.github.io/project/sec-sleuth/</guid>
       <description>&lt;p&gt;SEC Sleuth is a web interface designed to efficiently retrieve and present data from SEC filings, specifically the 10-Q and 10-K forms available through the EDGAR database. The application leverages a RAG fine-tuned on Microsoft Phi-3.5 Mini to provide accurate and contextually relevant information from these financial documents.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://liamjdavis.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://liamjdavis.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vendor Map</title>
-      <link>http://localhost:1313/project/vendor-map/</link>
+      <link>https://liamjdavis.github.io/project/vendor-map/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/vendor-map/</guid>
+      <guid>https://liamjdavis.github.io/project/vendor-map/</guid>
       <description>&lt;p&gt;Vendor Map is a web application that streams live NYC foot traffic data and applies game theory principles to optimally allocate food vendors across the city. Vendor Map won 2nd prize at the 2024 Cubist Hackathon.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Two Strategies to Improve the Stålmarck Procedure</title>
-      <link>http://localhost:1313/publication/preprint4/</link>
+      <link>https://liamjdavis.github.io/publication/preprint4/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint4/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint4/</guid>
       <description>&lt;p&gt;We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://liamjdavis.github.io/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://liamjdavis.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -221,9 +221,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>https://liamjdavis.github.io/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>https://liamjdavis.github.io/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -333,9 +333,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>https://liamjdavis.github.io/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>https://liamjdavis.github.io/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -346,7 +346,7 @@
 
 
 
-&lt;div id=&#34;chart-271693485&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713694825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -364,7 +364,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-271693485&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-713694825&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -543,9 +543,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>https://liamjdavis.github.io/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>https://liamjdavis.github.io/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -594,7 +594,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://liamjdavis.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -653,17 +653,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://liamjdavis.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://liamjdavis.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://liamjdavis.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://liamjdavis.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -706,7 +706,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://liamjdavis.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -783,9 +783,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://liamjdavis.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://liamjdavis.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -828,7 +828,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://liamjdavis.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -905,9 +905,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>https://liamjdavis.github.io/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>https://liamjdavis.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

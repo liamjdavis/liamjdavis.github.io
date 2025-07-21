@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formal Methods | Liam Davis</title>
-    <link>http://localhost:1313/tags/formal-methods/</link>
-      <atom:link href="http://localhost:1313/tags/formal-methods/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liamjdavis.github.io/tags/formal-methods/</link>
+      <atom:link href="https://liamjdavis.github.io/tags/formal-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Formal Methods</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Formal Methods</title>
-      <link>http://localhost:1313/tags/formal-methods/</link>
+      <link>https://liamjdavis.github.io/tags/formal-methods/</link>
     </image>
     
     <item>
       <title>Evaluating SAT and SMT Solvers on Large-Scale Sudoku Puzzles</title>
-      <link>http://localhost:1313/publication/preprint1/</link>
+      <link>https://liamjdavis.github.io/publication/preprint1/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint1/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint1/</guid>
       <description>&lt;p&gt;We benchmark traditional SAT Solvers and modern SMT Solvers against each other with 25x25 Sudoku, deriving insights on the evolution of satisfiability.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Two Strategies to Improve the Stålmarck Procedure</title>
-      <link>http://localhost:1313/publication/preprint4/</link>
+      <link>https://liamjdavis.github.io/publication/preprint4/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint4/</guid>
+      <guid>https://liamjdavis.github.io/publication/preprint4/</guid>
       <description>&lt;p&gt;We develop an open source modern re-implementation Stålmarck procedure for boolean satisfiability, and explore two strategies in CDB and DPO to improve the performance of the procedure.&lt;/p&gt;
 </description>
     </item>

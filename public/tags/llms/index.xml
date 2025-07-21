@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLMs | Liam Davis</title>
-    <link>http://localhost:1313/tags/llms/</link>
-      <atom:link href="http://localhost:1313/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liamjdavis.github.io/tags/llms/</link>
+      <atom:link href="https://liamjdavis.github.io/tags/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>LLMs</title>
-      <link>http://localhost:1313/tags/llms/</link>
+      <link>https://liamjdavis.github.io/tags/llms/</link>
     </image>
     
     <item>
       <title>Resumax</title>
-      <link>http://localhost:1313/project/resumax/</link>
+      <link>https://liamjdavis.github.io/project/resumax/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/resumax/</guid>
+      <guid>https://liamjdavis.github.io/project/resumax/</guid>
       <description>&lt;p&gt;Resumax is a personalized AI resume reviewer built with Llama 3.2 for the Loeb Career Center at Amherst College.&lt;/p&gt;</description>
     </item>
     
