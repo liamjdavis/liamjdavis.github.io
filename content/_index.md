@@ -33,7 +33,7 @@ sections:
       text: |-
         My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. I also contribute to the alpha-beta-CROWN framework. 
         
-        I'm currently working with several people, including Andrew Wu at Amherst College, Clark Barrett at Stanford, Guy Katz at Hebrew University of Jerusalem, and Huan Zhang at UIUC.
+        I'm currently working with several people, but my main advisor is Andrew Wu at Amherst College. Through my collaborations with the Marabou and alpha-beta-CROWN teams, I also work with Clark Barrett at Stanford, Guy Katz at Hebrew University of Jerusalem, and Huan Zhang at UIUC.
     design:
       columns: '1'
   - block: collection

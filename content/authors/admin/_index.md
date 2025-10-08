@@ -59,14 +59,12 @@ education:
     date_end: 2024-08-01
 
 work:
-  - position: AI Researcher
-    company_name: Stanford AI Labs
+  - position: Campus Partner
+    company_name: Perplexity
     company_url: ''
     company_logo: ''
-    date_start: 2025-06-01
+    date_start: 2025-09-01
     date_end: ''
-    summary: |2-
-      - Incoming Summer 2025
 
   - position: Co-Director of Engineering
     company_name: Ideas 2 Innovation
@@ -89,18 +87,7 @@ work:
       - Coordinating meetings & communication for 36 club members, conducting weekly C++ review sessions and trading games
       - Spearheaded the first Amherst Quant Competition with 40+ participants, developing a live trading platform in C++ that executed 10k+ trades in real time
 
-  - position: Research Engineer
-    company_name: IDEAS Lab
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-01-01
-    date_end: '2025-06-01'
-    summary: |2-
-      - Engineering RBlocks, a block-based R-programming IDE with React & Firebase for 200+ intro statistics students each year
-      - Integrated Google Authentication & Firebase for secure code storage & retrieval for hundreds of users
-      - Built an automated CI/CD pipeline integrating Firebase for deployment, ensuring seamless updates & scalability
-
-  - position: Artificial Intelligence Research Assistant
+  - position: AI Researcher
     company_name: Professor Andrew Wu Research Group
     company_url: ''
     company_logo: ''
@@ -111,6 +98,24 @@ work:
       - Concurrently developing the alpha-beta-CROWN framework, leveraging Pytorch’s CUDA acceleration for parallelization
       - Developed the novel lookahead branching heuristic for branch-and-bound, improving verification time by up to 30%
       - Submitted first-author paper to NeurIPS 2025 on the lookahead branching heuristic to improve branch-and-bound
+
+  - position: AI Researcher
+    company_name: Stanford AI Labs
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: ''
+
+  - position: Research Engineer
+    company_name: IDEAS Lab
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-01-01
+    date_end: '2025-06-01'
+    summary: |2-
+      - Engineering RBlocks, a block-based R-programming IDE with React & Firebase for 200+ intro statistics students each year
+      - Integrated Google Authentication & Firebase for secure code storage & retrieval for hundreds of users
+      - Built an automated CI/CD pipeline integrating Firebase for deployment, ensuring seamless updates & scalability
 
   - position: Business Analyst and VC Extern
     company_name: HP (Hewlett Packard) Tech Ventures

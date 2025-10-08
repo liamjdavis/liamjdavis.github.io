@@ -14,7 +14,7 @@ publishDate: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review at NeurIPS 2025"
+publication: "FMCAD Student Forum 2025, Under Review at ICLR 2026"
 publication_short: ""
 
 abstract: In this paper, we investigate the effect of lookahead branching strategy in neural network verification. We present a general recipe for integrating lookahead into any branch- and-bound search framework, and show that the current state-of-the-art heuristic, FSB, can be viewed as a specific case of lookahead. We also describe how, in addition to guiding branching, lookahead can generate additional lemmas that accelerate verification. We instantiate the method in two representative branch-and-bound-based verifiers (Marabou and α-β-CROWN), and demonstrate consistent reductions in overall verification time across both systems.
