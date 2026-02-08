@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAT Solver | Liam Davis</title>
-    <link>https://liamjdavis.github.io/tags/sat-solver/</link>
-      <atom:link href="https://liamjdavis.github.io/tags/sat-solver/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/sat-solver/</link>
+      <atom:link href="http://localhost:1313/tags/sat-solver/index.xml" rel="self" type="application/rss+xml" />
     <description>SAT Solver</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>SAT Solver</title>
-      <link>https://liamjdavis.github.io/tags/sat-solver/</link>
+      <link>http://localhost:1313/tags/sat-solver/</link>
     </image>
     
     <item>
       <title>StalmarckSAT</title>
-      <link>https://liamjdavis.github.io/project/stalmarcksat/</link>
+      <link>http://localhost:1313/project/stalmarcksat/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://liamjdavis.github.io/project/stalmarcksat/</guid>
+      <guid>http://localhost:1313/project/stalmarcksat/</guid>
       <description>&lt;p&gt;StalmarckSAT is the only open source SAT solver based on the Stålmarck Procedure. It is designed to provide researchers a solver to improve the procedure and bring the procedure back to the forefront of SAT solving after 30 years of dormancy.&lt;/p&gt;</description>
     </item>
     

@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Researcher, Engineer, Quant
+role: AI Researcher, Developer, Hacker
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,6 +48,11 @@ education:
     date_start: 2023-09-01
     date_end: 2027-05-01
 
+  - area: Visiting Student 
+    institution: Columbia University 
+    date_start: 2026-01-21
+    date_end: 2026-05-15
+
   - area: Breakthrough Tech AI Fellow
     institution: MIT
     date_start: 2025-05-01
@@ -59,12 +64,26 @@ education:
     date_end: 2024-08-01
 
 work:
+  - position: Incoming SWE Intern
+    company_name: LinkedIn 
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-05-29
+    end_date: 2026-08-01
+
+  - position: Artificial Intelligence Researcher
+    company_name: Columbia PL Lab
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-01-19
+    date_end: 2026-05-15
+
   - position: Campus Partner
     company_name: Perplexity
     company_url: ''
     company_logo: ''
     date_start: 2025-09-01
-    date_end: ''
+    date_end: 2025-12-01
 
   - position: Co-Director of Engineering
     company_name: Ideas 2 Innovation
@@ -95,16 +114,9 @@ work:
     date_end: ''
     summary: |
       - Engineering the open source Deep Neural Networks (DNN) verification framework Marabou with C++ & Python
-      - Concurrently developing the alpha-beta-CROWN framework, leveraging Pytorch’s CUDA acceleration for parallelization
+      - Concurrently developing the alpha-beta-CROWN and NeuralSAT frameworks, leveraging Pytorch’s CUDA acceleration for parallelization
       - Developed the novel lookahead branching heuristic for branch-and-bound, improving verification time by up to 30%
-      - Submitted first-author paper to NeurIPS 2025 on the lookahead branching heuristic to improve branch-and-bound
-
-  - position: AI Researcher
-    company_name: Stanford AI Labs
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-06-01
-    date_end: ''
+      - Built a novel incremental verification pipeline for verification of related properties, yielding 2x improvements in verification time
 
   - position: Research Engineer
     company_name: IDEAS Lab
@@ -172,5 +184,4 @@ awards:
 
 ## About Me
 
-Liam is a junior at Amherst College majoring in Mathematics and Computer Science with experience in AI research, software engineering, and quantitative research. He combines theoretical knowledge with practical engineering
-and business experience, bringing his pragmatic approach to solving complex problems across multiple domains.
+Liam is a junior at Amherst College majoring in Mathematics and Computer Science that enjoys working at the intersection of AI and high performance software. He is a hacker at heart, and loves working on problems across several domains.

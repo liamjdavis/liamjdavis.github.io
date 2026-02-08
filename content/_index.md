@@ -31,9 +31,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the formal verification of AI systems, and in particular, I am a developer of the Marabou verification framework. I also contribute to the alpha-beta-CROWN framework. 
-        
-        I'm currently working with several people, but my main advisor is Andrew Wu at Amherst College. Through my collaborations with the Marabou and alpha-beta-CROWN teams, I also work with Clark Barrett at Stanford, Guy Katz at Hebrew University of Jerusalem, and Huan Zhang at UIUC.
+        My research focuses on the intersection of AI and automated reasoning. In particular, I work on using automated reasoning to formally verify the behavior of AI systems, and using automated reasoning to enhance the reasoning capability of AI systems. I also dabble in SAT solving. I am currently advised by Andrew Wu at Amherst College and Mark Santolucito at Columbia University.  
     design:
       columns: '1'
   - block: collection

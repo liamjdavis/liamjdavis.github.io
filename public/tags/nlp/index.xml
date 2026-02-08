@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP | Liam Davis</title>
-    <link>https://liamjdavis.github.io/tags/nlp/</link>
-      <atom:link href="https://liamjdavis.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/nlp/</link>
+      <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>NLP</title>
-      <link>https://liamjdavis.github.io/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
     </image>
     
     <item>
       <title>Resumax</title>
-      <link>https://liamjdavis.github.io/project/resumax/</link>
+      <link>http://localhost:1313/project/resumax/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://liamjdavis.github.io/project/resumax/</guid>
+      <guid>http://localhost:1313/project/resumax/</guid>
       <description>&lt;p&gt;Resumax is a personalized AI resume reviewer built with Llama 3.2 for the Loeb Career Center at Amherst College.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SEC Sleuth</title>
-      <link>https://liamjdavis.github.io/project/sec-sleuth/</link>
+      <link>http://localhost:1313/project/sec-sleuth/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://liamjdavis.github.io/project/sec-sleuth/</guid>
+      <guid>http://localhost:1313/project/sec-sleuth/</guid>
       <description>&lt;p&gt;SEC Sleuth is a web interface designed to efficiently retrieve and present data from SEC filings, specifically the 10-Q and 10-K forms available through the EDGAR database. The application leverages a RAG fine-tuned on Microsoft Phi-3.5 Mini to provide accurate and contextually relevant information from these financial documents.&lt;/p&gt;</description>
     </item>
     

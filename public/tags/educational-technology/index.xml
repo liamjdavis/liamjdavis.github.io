@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educational Technology | Liam Davis</title>
-    <link>https://liamjdavis.github.io/tags/educational-technology/</link>
-      <atom:link href="https://liamjdavis.github.io/tags/educational-technology/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/educational-technology/</link>
+      <atom:link href="http://localhost:1313/tags/educational-technology/index.xml" rel="self" type="application/rss+xml" />
     <description>Educational Technology</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liamjdavis.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Educational Technology</title>
-      <link>https://liamjdavis.github.io/tags/educational-technology/</link>
+      <link>http://localhost:1313/tags/educational-technology/</link>
     </image>
     
     <item>
       <title>RBlocks: Block Programming IDE for R</title>
-      <link>https://liamjdavis.github.io/publication/preprint3/</link>
+      <link>http://localhost:1313/publication/preprint3/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liamjdavis.github.io/publication/preprint3/</guid>
+      <guid>http://localhost:1313/publication/preprint3/</guid>
       <description>&lt;p&gt;RBlocks is a block-based R IDE designed to be an introductory programming interface for Statistics students.&lt;/p&gt;
 </description>
     </item>
