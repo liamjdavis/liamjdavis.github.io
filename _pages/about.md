@@ -31,9 +31,3 @@ At Amherst, I work with [Professor Andrew Wu](https://wu-haoze.github.io/) on ne
 In the summer of 2026 I'll be a Software Engineering Intern at LinkedIn in Sunnyvale, CA.
 
 Feel free to reach out at ljdavis27@amherst.edu.
-
----
-
-## service
-
-- Reviewer, **NeurIPS 2026**

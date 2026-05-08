@@ -61,10 +61,10 @@ cv:
         authors:
           - Liam Davis
           - Duo Zhou
-          - Huan Zhang 
+          - Huan Zhang
           - Guy Katz
           - Clark Barrett
-          - Haoze Wu 
+          - Haoze Wu
         publisher: To Appear at the 35th International Joint Conference on Artificial Intelligence (IJCAI '26)
         releaseDate: 2026
 
@@ -109,3 +109,6 @@ cv:
         publisher: arXiv:2501.08569
         url: https://arxiv.org/abs/2501.08569
         releaseDate: 2025
+
+    Service:
+      - bullet: Reviewer, **NeurIPS 2026**
