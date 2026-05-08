@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper *Lookahead Branching for Neural Network Verification* got accepted to **IJCAI '26**! I will be going to Bremen, Germany this August to present the work.
