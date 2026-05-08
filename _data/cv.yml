@@ -1,10 +1,10 @@
 cv:
   name: Liam Davis
   label: Undergraduate Researcher
-  email: davisliam123@gmail.com
+  email: ljdavis27@amherst.edu
   location: Amherst, MA
   image: ""
-  summary: Undergraduate researcher at Amherst College working on AI, automated reasoning, and trustworthy machine learning.
+  summary: Undergraduate researcher at Amherst College working on AI safety and neurosymbolic AI.
 
   social_networks:
     - network: GitHub

@@ -3,6 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/cv.pdf # uncomment and add file once you have a CV PDF
 email: davisliam123@gmail.com
-github_username: liamjdavis
 scholar_userid: Q-jmBDwAAAAJ
+github_username: liamjdavis
+linkedin_username: liam-j-davis
+x_username: liamjdavis146
 rss_icon: true
