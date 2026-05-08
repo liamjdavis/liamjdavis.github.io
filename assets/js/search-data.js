@@ -34,6 +34,13 @@ ninja.data = [{
           window.open("mailto:%64%61%76%69%73%6C%69%61%6D%31%32%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=Q-jmBDwAAAAJ", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -41,11 +48,18 @@ ninja.data = [{
           window.open("https://github.com/liamjdavis", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=Q-jmBDwAAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/liam-j-davis", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/liamjdavis146", "_blank");
         },
       },{
         id: 'social-rss',
