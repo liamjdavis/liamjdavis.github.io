@@ -18,5 +18,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-
-{% include service.liquid %}

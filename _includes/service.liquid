@@ -1,8 +1,0 @@
-{% if site.data.service and site.data.service.size > 0 %}
-  <h2>service</h2>
-  <ul>
-    {% for entry in site.data.service %}
-      <li>{{ entry | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-    {% endfor %}
-  </ul>
-{% endif %}
