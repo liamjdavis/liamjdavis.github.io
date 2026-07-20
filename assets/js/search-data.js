@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-our-paper-lookahead-branching-for-neural-network-verification-got-accepted-to-ijcai-26-i-will-be-going-to-bremen-germany-this-august-to-present-the-work",
           title: 'Our paper Lookahead Branching for Neural Network Verification got accepted to IJCAI ‘26!...',
           description: "",
+          section: "News",},{id: "news-our-paper-incremental-neural-network-verification-via-learned-conflicts-got-accepted-to-fmcad-2026",
+          title: 'Our paper Incremental Neural Network Verification via Learned Conflicts got accepted to FMCAD...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
