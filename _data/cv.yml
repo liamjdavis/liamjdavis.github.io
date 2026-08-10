@@ -54,6 +54,14 @@ cv:
         end_date: 2026-08
 
     Publications:
+      - title: Learning Lookahead Lemmas for Neural Network Verification
+        authors:
+          - Liam Davis
+          - Haoze Wu
+        publisher: Under review at AAAI 2027
+        url: https://arxiv.org/abs/2607.29051
+        releaseDate: 2026
+
       - title: Lookahead Branching for Neural Network Verification
         authors:
           - Liam Davis
