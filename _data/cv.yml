@@ -71,6 +71,7 @@ cv:
           - Clark Barrett
           - Haoze Wu
         publisher: To Appear at the 35th International Joint Conference on Artificial Intelligence (IJCAI '26)
+        url: https://arxiv.org/abs/2607.17290
         releaseDate: 2026
 
       - title: Lattice Deduction Transformers
@@ -80,6 +81,7 @@ cv:
           - Alberto Alfarano
           - Mark Santolucito
         publisher: Under review at NeurIPS 2026
+        url: https://arxiv.org/abs/2605.08605
         releaseDate: 2026
 
       - title: Incremental Neural Network Verification via Learned Conflicts
