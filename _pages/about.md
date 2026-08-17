@@ -28,6 +28,6 @@ I'm an undergraduate at Amherst College studying Mathematics and Computer Scienc
 
 At Amherst, I work with [Professor Andrew Wu](https://wu-haoze.github.io/) on neural network verification, particularly on the Marabou framework. I have also worked on the alpha-beta-CROWN framework. During the Spring 2026 Semester I was a visiting student at Columbia University worked with [Professor Mark Santolucito](marksantolucito.com) and [Axiom](axiommath.ai) on neurosymbolic AI. Specifically, we developed the Lattice Deduction Transformer, which uses abstract interpretation to improve the reasoning capabilities of transformers. I also dabble in SAT/SMT solving.
 
-During the summer of 2026 I worked as a software engineering at LinkedIn in Sunnyvale, CA, working on data infrastructure.
+During the summer of 2026 I worked as a software engineering intern at LinkedIn in Sunnyvale, CA, working on data infrastructure.
 
 Feel free to reach out at ljdavis27@amherst.edu.
