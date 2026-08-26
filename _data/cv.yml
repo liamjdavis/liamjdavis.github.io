@@ -45,7 +45,7 @@ cv:
         position: Affiliated Researcher
         start_date: 2026-01
         end_date: Present
-        summary: Unpaid affiliation; cloud compute support.
+        summary: Unpaid affiliation. Financial support for cloud compute and API credits.
 
       - company: LinkedIn
         position: Software Engineering Intern
@@ -92,6 +92,15 @@ cv:
           - Guy Katz
         publisher: FMCAD 2026
         url: https://arxiv.org/abs/2603.12232
+        releaseDate: 2026
+      
+      - title: Toward Minimal-Core Reuse for Incremental Neural Network Verification 
+        authors:
+          - Raya Elsaleh 
+          - Liam Davis 
+          - Haoze Wu 
+          - Guy Katz 
+        publisher: FMCAD Student Forum 2026 
         releaseDate: 2026
 
       - title: Lookahead Branching for Neural Network Verification (short version)

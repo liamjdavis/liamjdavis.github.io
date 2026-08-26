@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate at Amherst College studying Mathematics and Computer Science. My interests lie at the intersection of formal methods and artificial intelligence. In particular, I work on using formal methods to verify the safety of AI systems, and improve the reasoning capabilities of AI.
+I'm an undergraduate at Amherst College studying Mathematics and Computer Science. My interests lie at the intersection of formal methods and artificial intelligence. In particular, I work on using formal methods to verify the safety of AI systems, and to improve neural reasoning.
 
 At Amherst, I work with [Professor Andrew Wu](https://wu-haoze.github.io/) on neural network verification, particularly on the Marabou framework. I have also worked on the alpha-beta-CROWN framework. During the Spring 2026 Semester I was a visiting student at Columbia University worked with [Professor Mark Santolucito](marksantolucito.com) and [Axiom](axiommath.ai) on neurosymbolic AI. Specifically, we developed the Lattice Deduction Transformer, which uses abstract interpretation to improve the reasoning capabilities of transformers. I also dabble in SAT/SMT solving.
 
