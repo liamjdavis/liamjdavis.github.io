@@ -72,7 +72,7 @@ cv:
           - Haoze Wu
         publisher: IJCAI 2026
         url: https://arxiv.org/abs/2607.17290
-        releaseDate: 2026
+        releaseDate: 2026-08
 
       - title: Lattice Deduction Transformers
         authors:
@@ -92,7 +92,7 @@ cv:
           - Guy Katz
         publisher: FMCAD 2026
         url: https://arxiv.org/abs/2603.12232
-        releaseDate: 2026
+        releaseDate: 2026-09
       
       - title: Toward Minimal-Core Reuse for Incremental Neural Network Verification 
         authors:
@@ -101,14 +101,14 @@ cv:
           - Haoze Wu 
           - Guy Katz 
         publisher: FMCAD Student Forum 2026 
-        releaseDate: 2026
+        releaseDate: 2026-09
 
       - title: Lookahead Branching for Neural Network Verification (short version)
         authors:
           - Liam Davis
           - Duo Zhou
         publisher: FMCAD Student Forum 2025
-        releaseDate: 2025
+        releaseDate: 2025-10
 
       - title: Two Optimizations on the Stålmarck Procedure
         authors:
@@ -116,7 +116,7 @@ cv:
           - Liam Davis
         publisher: FMCAD Student Forum 2025
         url: https://arxiv.org/abs/2509.16172
-        releaseDate: 2025
+        releaseDate: 2025-10
 
       - title: Evaluating SAT and SMT Solvers on Large-Scale Sudoku Puzzles
         authors:
