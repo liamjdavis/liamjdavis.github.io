@@ -80,9 +80,9 @@ cv:
           - Leopold Haller
           - Alberto Alfarano
           - Mark Santolucito
-        publisher: Under review at NeurIPS 2026
+        publisher: To appear at NeurIPS 2026
         url: https://arxiv.org/abs/2605.08605
-        releaseDate: 2026
+        releaseDate: 2026-12
 
       - title: Incremental Neural Network Verification via Learned Conflicts
         authors:
