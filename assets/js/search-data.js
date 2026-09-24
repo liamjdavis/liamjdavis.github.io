@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-incremental-neural-network-verification-via-learned-conflicts-got-accepted-to-fmcad-2026",
           title: 'Our paper Incremental Neural Network Verification via Learned Conflicts got accepted to FMCAD...',
           description: "",
+          section: "News",},{id: "news-our-paper-lattice-deduction-transformers-got-accepted-to-neurips-2026-i-will-be-travelling-to-neurips-this-december-to-present-the-paper",
+          title: 'Our paper Lattice Deduction Transformers got accepted to NeurIPS 2026! I will be...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
