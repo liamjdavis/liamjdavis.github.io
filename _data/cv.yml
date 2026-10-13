@@ -59,7 +59,7 @@ cv:
           - Liam Davis*
           - Romain Emil-Popescu*
           - Suman Jana
-        publisher: Under review at ACL Rolling Review 2026 (*equal contribution)
+        publisher: Under review at ACL Rolling Review 2026. *Equal contribution
         releaseDate: 2026
 
       - title: Learning Lookahead Lemmas for Neural Network Verification
