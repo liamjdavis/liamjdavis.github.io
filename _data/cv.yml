@@ -60,6 +60,7 @@ cv:
           - Romain Emil-Popescu*
           - Suman Jana
         publisher: Under review at ACL Rolling Review 2026. *Equal contribution
+        url: https://arxiv.org/abs/2610.19306
         releaseDate: 2026
 
       - title: Learning Lookahead Lemmas for Neural Network Verification
@@ -76,7 +77,7 @@ cv:
           - Leopold Haller
           - Alberto Alfarano
           - Mark Santolucito
-        publisher: To appear at NeurIPS 2026
+        publisher: NeurIPS 2026
         url: https://arxiv.org/abs/2605.08605
         releaseDate: 2026
 
