@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-lattice-deduction-transformers-got-accepted-to-neurips-2026-i-will-be-travelling-to-neurips-this-december-to-present-the-paper",
           title: 'Our paper Lattice Deduction Transformers got accepted to NeurIPS 2026! I will be...',
           description: "",
+          section: "News",},{id: "news-we-have-a-new-preprint-did-the-llm-answer-the-question-a-semantic-reconstruction-game-for-jailbreak-evaluation-co-authored-with-romain-emil-popescu-and-suman-jana",
+          title: 'We have a new preprint Did the LLM Answer the Question? A Semantic...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
